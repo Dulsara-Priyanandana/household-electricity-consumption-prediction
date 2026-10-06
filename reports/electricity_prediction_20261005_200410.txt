@@ -1,0 +1,60 @@
+
+==========================================
+ HOUSEHOLD ELECTRICITY PREDICTION REPORT
+==========================================
+
+Prediction Date and Time:
+2026-10-05 20:04:10
+
+------------------------------------------
+ HOUSEHOLD INFORMATION
+------------------------------------------
+
+Month              : May
+District           : Kegalle
+Province           : Sabaragamuwa
+Household Type     : Apartment
+Household Size     : 4
+House Area         : 160.0 m²
+Bedrooms           : 3
+
+------------------------------------------
+ APPLIANCE INFORMATION
+------------------------------------------
+
+AC Units                    : 2
+Fans                        : 2
+Refrigerators               : 1
+TVs                         : 4
+Washing Machines            : 1
+Water Heaters               : 1
+Computers                   : 1
+Other High-Power Appliances : 3
+
+------------------------------------------
+ USAGE INFORMATION
+------------------------------------------
+
+Average Daily AC Hours      : 2.00
+Average Daily Fan Hours     : 3.00
+Average Daily TV Hours      : 4.00
+Average Daily Cooking Hours : 2.00
+
+------------------------------------------
+ SOLAR AND WEATHER INFORMATION
+------------------------------------------
+
+Solar PV                    : No
+Solar Capacity              : 0.00 kW
+Average Temperature         : 34.00 °C
+
+Previous Month Consumption  : 390.00 kWh
+
+------------------------------------------
+ PREDICTION
+------------------------------------------
+
+Predicted Monthly Consumption : 430.18 kWh
+Estimated Usage Level         : High
+
+==========================================

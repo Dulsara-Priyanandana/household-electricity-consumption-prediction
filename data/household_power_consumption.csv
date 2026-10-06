@@ -1,0 +1,1001 @@
+Month,Province,District,Household_Type,Household_Size,House_Area_m2,Bedrooms,AC_Units,Fans,Refrigerators,TVs,Washing_Machines,Water_Heaters,Computers,Other_High_Power_Appliances,Avg_Daily_AC_Hours,Avg_Daily_Fan_Hours,Avg_Daily_TV_Hours,Avg_Daily_Cooking_Hours,Solar_PV,Solar_Capacity_kW,Avg_Temperature_C,Previous_Month_kWh,Target_Monthly_kWh
+January,Eastern,Ampara,Single_Family,4,69.1,1,1.0,4,1,3,0,0,3,3,5.1,4.7,3.5,3.3,No,0.0,30.3,369.7,350.8
+January,Eastern,Ampara,Apartment,6,54.1,2,0.0,7,1,2,0,0,1,0,0.0,,6.3,3.0,No,0.0,30.3,290.9,281.8
+January,North Central,Anuradhapura,Single_Family,2,196.9,5,0.0,3,1,2,1,0,1,1,0.0,10.7,4.1,3.9,No,,25.4,241.6,277.9
+January,North Central,Anuradhapura,Single_Family,4,122.8,3,0.0,4,2,2,1,0,3,3,0.0,9.2,5.7,3.7,No,0.0,27.4,270.7,286.7
+January,Uva,Badulla,Single_Family,5,93.9,2,0.0,5,1,2,0,1,2,2,0.0,4.7,2.7,1.4,No,0.0,29.6,307.3,303.0
+January,Eastern,Batticaloa,Single_Family,7,119.8,3,0.0,8,1,2,1,2,1,1,0.0,11.4,4.8,3.5,Yes,6.5,26.9,290.0,284.7
+January,Eastern,Batticaloa,Single_Family,4,177.0,3,1.0,5,1,3,2,0,1,0,4.4,9.2,2.3,2.6,No,0.0,27.7,411.5,344.7
+January,Western,Gampaha,Single_Family,7,,4,1.0,7,1,2,1,0,3,3,2.1,6.5,3.3,1.3,No,0.0,30.8,438.1,492.7
+January,Western,Gampaha,Single_Family,4,116.0,3,0.0,4,2,2,2,1,1,2,0.0,5.4,3.2,2.6,No,0.0,27.7,315.0,312.1
+January,Southern,Hambantota,Single_Family,7,93.8,2,0.0,8,1,3,2,1,2,3,0.0,10.9,5.8,3.4,No,0.0,26.1,363.5,404.3
+January,Western,Kalutara,Single_Family,1,142.7,3,0.0,2,1,3,1,2,1,2,0.0,9.2,7.0,3.0,Yes,2.6,25.9,286.0,244.3
+January,Sabaragamuwa,Kegalle,Semi_Detached,5,121.1,2,0.0,7,1,2,0,0,0,3,0.0,9.7,3.2,1.3,No,0.0,30.8,,328.4
+January,Northern,Kilinochchi,Apartment,2,113.8,3,2.0,3,1,1,1,2,2,2,7.7,8.5,6.8,1.6,Yes,4.8,27.1,374.5,399.4
+January,North Western,Kurunegala,Apartment,4,126.5,3,0.0,4,1,2,2,0,1,1,0.0,9.9,7.0,1.4,No,0.0,29.8,294.9,273.3
+January,Southern,Matara,Single_Family,2,167.2,4,0.0,4,2,1,0,1,0,0,0.0,6.7,3.9,3.4,No,0.0,26.9,240.7,259.2
+January,Northern,Mullaitivu,Single_Family,6,154.1,3,0.0,8,1,3,1,0,2,0,0.0,7.3,6.3,1.5,Yes,5.4,26.1,258.0,271.0
+January,Central,Nuwara Eliya,Single_Family,2,110.9,3,0.0,4,1,2,1,1,3,0,0.0,8.4,2.6,3.6,Yes,2.0,25.5,197.3,254.3
+January,North Western,Puttalam,Apartment,5,89.8,3,0.0,7,1,3,2,0,0,1,0.0,9.7,6.2,2.3,No,0.0,26.5,254.5,310.4
+January,Sabaragamuwa,Ratnapura,Semi_Detached,5,98.0,2,0.0,5,1,1,1,2,3,2,0.0,7.7,3.7,3.1,No,0.0,26.0,309.0,367.8
+January,Eastern,Trincomalee,Single_Family,5,90.2,2,1.0,5,2,2,2,0,2,0,3.9,8.4,5.3,1.4,Yes,6.0,30.1,310.3,330.9
+February,Eastern,Ampara,Single_Family,5,62.3,1,0.0,6,1,3,1,0,1,3,0.0,4.6,2.4,2.7,Yes,,25.8,184.0,171.7
+February,Eastern,Ampara,Single_Family,7,164.7,4,2.0,7,1,2,1,1,3,1,8.2,8.3,2.5,1.8,No,0.0,25.2,524.1,484.0
+February,North Central,Anuradhapura,Single_Family,7,119.9,3,0.0,8,1,2,2,2,3,3,0.0,7.9,6.5,1.7,No,0.0,26.9,411.2,391.8
+February,Uva,Badulla,Single_Family,3,98.8,2,0.0,3,2,1,2,1,2,1,0.0,9.3,3.2,1.3,No,0.0,25.0,270.5,240.9
+February,Eastern,Batticaloa,Single_Family,7,86.6,2,1.0,8,1,2,1,0,2,1,5.7,10.4,4.7,1.2,Yes,6.2,26.9,318.1,327.4
+February,Eastern,Batticaloa,Single_Family,3,116.6,3,1.0,5,1,3,2,1,2,2,8.9,6.8,6.2,3.3,No,0.0,26.8,457.3,405.8
+February,Western,Colombo,Single_Family,7,95.8,2,0.0,8,1,2,1,2,1,0,0.0,4.6,2.8,2.5,No,0.0,27.6,341.0,347.9
+February,Southern,Galle,Semi_Detached,6,69.5,1,0.0,6,1,3,1,0,2,0,0.0,4.7,2.8,2.3,No,0.0,29.1,337.6,278.6
+February,Southern,Galle,Single_Family,4,103.5,3,0.0,4,1,3,0,2,1,1,0.0,5.2,5.1,2.4,No,0.0,28.8,292.6,297.6
+February,Southern,Galle,Single_Family,4,107.1,2,0.0,4,1,1,2,0,2,1,0.0,11.4,2.9,1.5,No,0.0,26.3,231.8,306.6
+February,Northern,Jaffna,Semi_Detached,1,74.5,2,1.0,3,1,3,1,2,1,0,6.4,4.7,3.4,1.5,Yes,7.2,27.4,298.4,214.2
+February,Western,Kalutara,Single_Family,7,117.2,3,0.0,8,1,3,0,1,1,2,0.0,10.1,4.9,2.8,No,0.0,30.8,370.8,352.5
+February,Central,Kandy,Single_Family,3,123.9,2,0.0,4,2,3,1,2,3,2,0.0,7.8,6.1,1.1,No,0.0,26.2,339.3,318.6
+February,Central,Kandy,Single_Family,1,112.5,2,1.0,1,1,3,1,1,0,3,6.7,6.4,5.3,4.0,No,0.0,30.0,347.5,381.6
+February,Sabaragamuwa,Kegalle,Semi_Detached,4,58.3,1,0.0,5,1,3,2,1,2,3,0.0,8.6,6.3,1.8,No,0.0,29.7,306.1,340.0
+February,North Western,Kurunegala,Single_Family,2,185.9,4,0.0,3,1,1,1,0,1,0,0.0,4.5,4.3,3.7,No,0.0,30.7,212.9,247.0
+February,Northern,Mannar,Semi_Detached,1,141.4,3,2.0,1,2,2,1,1,3,2,6.1,11.2,6.7,3.1,No,0.0,27.2,451.9,435.2
+February,Northern,Mannar,Single_Family,5,138.7,4,2.0,6,1,2,0,1,1,3,4.9,10.1,5.0,2.1,No,0.0,30.4,476.1,527.4
+February,Northern,Mannar,Semi_Detached,7,61.9,1,0.0,7,1,1,1,1,0,2,0.0,7.6,6.2,1.2,No,0.0,29.0,355.6,304.1
+February,Central,Matale,Apartment,5,54.8,1,0.0,7,1,2,1,0,2,3,0.0,4.9,5.1,2.4,No,0.0,29.7,309.7,313.0
+February,Uva,Monaragala,Single_Family,2,126.2,3,0.0,2,1,3,0,2,1,3,0.0,5.2,4.6,2.8,No,0.0,26.0,271.8,225.3
+February,Central,Nuwara Eliya,Single_Family,2,88.7,1,,4,2,2,1,1,1,1,0.0,6.9,5.1,3.6,No,0.0,,300.9,241.3
+February,Central,Nuwara Eliya,Apartment,2,172.5,3,0.0,2,1,3,1,0,2,3,,10.8,5.2,1.9,No,0.0,28.3,285.5,284.5
+February,Central,Nuwara Eliya,Single_Family,6,118.5,3,,6,1,3,2,0,1,0,7.3,10.2,6.4,3.9,No,0.0,30.7,503.4,471.8
+February,North Central,Polonnaruwa,Apartment,4,69.7,2,2.0,4,2,3,1,2,3,0,,10.5,6.7,2.8,No,0.0,30.4,529.3,453.2
+February,North Central,Polonnaruwa,Single_Family,5,40.0,1,0.0,6,1,2,0,2,1,0,,10.1,3.1,2.2,No,0.0,30.1,313.2,301.1
+February,North Central,Polonnaruwa,Semi_Detached,2,86.7,2,,4,1,3,0,0,2,3,3.6,8.4,6.4,2.6,No,0.0,30.4,359.2,347.5
+February,North Central,Polonnaruwa,Single_Family,6,134.9,3,0.0,6,2,3,0,1,2,0,0.0,4.3,6.4,3.5,Yes,3.4,28.8,327.2,270.6
+February,North Central,Polonnaruwa,Apartment,6,49.4,2,2.0,7,1,3,2,2,2,3,5.5,7.2,6.2,3.2,No,0.0,27.8,485.2,487.1
+February,North Western,Puttalam,Semi_Detached,6,77.5,2,0.0,7,1,1,1,2,2,3,0.0,8.3,2.5,2.3,Yes,6.3,29.0,279.3,282.2
+February,Sabaragamuwa,Ratnapura,Single_Family,4,,2,0.0,6,1,3,1,2,1,0,0.0,9.0,5.0,1.3,Yes,2.7,25.9,268.2,272.4
+March,Eastern,Ampara,Apartment,7,55.2,1,1.0,7,1,1,1,0,0,1,,4.6,4.5,2.7,No,0.0,26.6,413.7,336.9
+March,Eastern,Ampara,Single_Family,1,89.5,2,1.0,3,1,2,1,0,1,1,8.0,10.3,4.0,2.1,No,0.0,25.2,278.3,258.2
+March,North Central,Anuradhapura,Single_Family,2,132.2,3,0.0,2,1,3,0,2,0,1,0.0,11.9,6.2,3.4,No,0.0,29.5,242.5,264.0
+March,Uva,Badulla,Single_Family,4,66.9,2,0.0,6,1,2,1,0,1,1,0.0,5.4,3.4,3.2,No,0.0,27.3,260.0,236.1
+March,Uva,Badulla,Single_Family,3,97.8,1,0.0,3,1,2,2,1,1,1,0.0,10.1,4.6,1.3,No,0.0,30.8,225.6,305.7
+March,Uva,Badulla,Single_Family,1,129.9,2,0.0,2,1,1,0,2,3,2,0.0,10.6,2.3,2.5,No,0.0,29.2,270.9,233.7
+March,Uva,Badulla,Single_Family,3,128.4,3,1.0,5,1,1,0,2,1,3,8.0,6.5,2.9,3.9,Yes,6.6,27.1,289.9,348.1
+March,Western,Colombo,Semi_Detached,7,150.2,4,2.0,8,1,1,1,1,0,2,4.0,8.5,3.7,1.9,No,0.0,28.1,485.7,524.2
+March,Western,Gampaha,Single_Family,6,122.2,3,0.0,7,1,3,2,1,1,0,0.0,10.5,2.8,3.0,No,0.0,27.7,301.2,329.7
+March,Southern,Hambantota,Apartment,4,83.9,2,1.0,4,1,1,2,0,1,0,8.0,9.5,4.3,2.1,Yes,5.7,26.7,264.1,275.8
+March,Northern,Jaffna,Apartment,3,59.8,2,2.0,3,1,3,1,0,0,3,2.4,9.6,2.8,3.7,No,0.0,26.8,380.1,369.3
+March,Western,Kalutara,Single_Family,1,159.4,4,0.0,3,2,1,1,0,2,2,0.0,6.2,3.4,1.3,Yes,3.3,28.2,188.6,210.6
+March,Central,Kandy,Apartment,6,86.9,3,0.0,7,1,2,1,0,2,3,0.0,6.4,6.5,1.7,Yes,6.1,31.0,264.5,271.6
+March,Central,Kandy,Single_Family,5,99.1,3,,6,1,3,2,1,2,0,,9.3,4.8,3.7,No,0.0,27.6,471.7,465.4
+March,Sabaragamuwa,Kegalle,Single_Family,6,40.0,2,0.0,8,2,2,0,0,1,0,0.0,5.6,7.0,2.7,Yes,7.3,29.2,197.2,253.6
+March,Northern,Kilinochchi,Single_Family,4,186.5,4,1.0,6,1,2,1,0,1,0,5.7,4.3,2.6,2.4,Yes,4.9,30.6,315.4,339.9
+March,North Western,Kurunegala,Apartment,3,73.9,1,1.0,3,1,1,1,2,1,1,2.6,5.7,6.0,2.4,No,0.0,28.6,349.0,326.2
+March,Central,Matale,Single_Family,7,143.4,4,1.0,7,2,2,1,0,1,2,3.9,5.0,6.3,1.9,No,0.0,28.4,439.4,495.1
+March,Uva,Monaragala,Single_Family,5,156.8,2,0.0,7,2,3,2,0,1,1,0.0,5.2,6.2,3.0,No,0.0,29.4,346.9,379.8
+March,Northern,Mullaitivu,Semi_Detached,3,76.8,2,0.0,4,1,1,1,0,0,0,0.0,4.8,5.4,1.7,No,0.0,30.5,244.4,245.6
+March,Northern,Mullaitivu,Apartment,5,71.0,2,0.0,7,1,3,1,0,2,2,0.0,11.1,4.1,3.1,No,0.0,30.0,341.7,340.6
+March,Central,Nuwara Eliya,Single_Family,7,90.2,1,0.0,8,2,3,2,0,1,3,0.0,7.5,3.1,2.6,No,0.0,26.0,350.6,400.9
+March,North Central,Polonnaruwa,Single_Family,1,128.5,3,0.0,3,1,2,1,2,3,2,0.0,11.6,2.3,1.6,No,0.0,26.3,263.9,273.9
+March,North Western,Puttalam,Semi_Detached,1,153.2,4,0.0,2,1,1,2,2,0,2,0.0,6.0,5.6,1.9,No,0.0,30.9,301.0,292.8
+March,North Western,Puttalam,Single_Family,3,142.6,3,1.0,4,2,3,1,0,1,0,4.8,9.4,6.9,1.2,Yes,7.2,29.0,256.6,292.6
+April,North Central,Anuradhapura,Single_Family,7,157.3,4,1.0,7,1,3,1,0,3,1,6.7,7.6,2.8,2.5,No,0.0,26.3,420.3,466.5
+April,North Central,Anuradhapura,Single_Family,5,96.5,2,1.0,7,1,2,1,1,1,2,6.6,5.5,2.9,1.3,No,0.0,28.1,406.8,414.7
+April,Uva,Badulla,Apartment,3,148.5,3,0.0,5,1,2,0,1,1,0,0.0,5.0,2.9,2.2,Yes,4.4,26.3,185.3,150.8
+April,Uva,Badulla,Single_Family,7,110.7,3,0.0,8,1,2,1,0,2,1,0.0,11.9,6.6,3.6,Yes,7.1,30.5,294.0,274.1
+April,Western,Colombo,Semi_Detached,5,99.1,3,1.0,6,2,3,2,1,2,2,2.9,11.9,4.2,2.3,No,0.0,27.1,450.7,432.1
+April,Southern,Galle,Single_Family,2,194.2,5,0.0,4,1,1,1,2,2,3,0.0,11.0,6.8,3.6,No,0.0,27.0,355.6,313.0
+April,Southern,Galle,Single_Family,6,49.3,1,0.0,6,2,3,1,1,1,0,0.0,4.8,2.1,3.6,No,0.0,26.4,311.6,324.3
+April,Southern,Hambantota,Apartment,1,126.4,2,0.0,1,1,1,2,2,1,1,0.0,6.1,5.1,3.3,No,0.0,29.4,195.5,269.2
+April,Southern,Hambantota,Single_Family,4,182.4,4,1.0,4,1,2,1,1,2,0,8.5,10.8,6.8,2.9,No,0.0,29.6,450.8,467.8
+April,Southern,Hambantota,Single_Family,5,,3,0.0,7,1,2,2,0,2,3,0.0,8.5,3.7,3.8,No,0.0,30.4,330.4,391.0
+April,Northern,Jaffna,Single_Family,2,43.0,1,1.0,4,1,1,1,0,2,1,6.2,10.9,2.7,1.8,No,0.0,27.5,344.2,355.5
+April,Northern,Jaffna,Single_Family,5,120.9,3,0.0,7,2,2,1,1,1,2,0.0,5.6,5.9,2.3,No,0.0,28.7,342.1,374.6
+April,Western,Kalutara,Single_Family,7,72.0,2,2.0,8,1,2,1,0,2,1,4.5,8.8,3.9,3.3,No,0.0,29.4,484.4,433.8
+April,Sabaragamuwa,Kegalle,Apartment,3,63.2,2,1.0,3,1,3,1,1,1,1,6.6,11.9,2.9,1.8,No,0.0,28.0,354.4,306.5
+April,Sabaragamuwa,Kegalle,Single_Family,4,111.4,3,0.0,6,1,1,1,1,3,0,0.0,6.7,4.1,2.6,Yes,4.9,25.2,244.0,198.4
+April,Northern,Kilinochchi,Semi_Detached,4,170.7,3,0.0,5,1,3,1,1,3,1,0.0,10.5,6.5,1.3,No,0.0,28.3,339.8,342.3
+April,North Western,Kurunegala,Single_Family,1,121.7,3,1.0,2,1,1,1,0,1,2,3.8,11.4,4.1,4.0,No,0.0,30.6,333.7,353.8
+April,North Western,Kurunegala,Semi_Detached,6,102.0,2,2.0,8,1,1,0,2,3,0,8.6,10.1,6.4,1.2,Yes,3.5,27.2,475.0,436.1
+April,North Western,Kurunegala,Apartment,5,122.6,3,1.0,6,1,3,0,2,1,0,7.0,10.6,5.8,2.3,No,0.0,30.4,395.5,463.7
+April,Central,Matale,Single_Family,7,186.5,4,1.0,8,2,1,0,1,0,3,8.6,11.8,4.8,1.2,No,0.0,29.9,545.7,558.5
+April,Southern,Matara,Single_Family,3,93.5,1,0.0,4,1,3,1,0,3,1,0.0,11.9,4.5,3.2,No,0.0,27.4,260.0,245.5
+April,Southern,Matara,Single_Family,5,159.1,3,1.0,6,1,3,1,2,3,2,2.6,,3.2,2.4,Yes,7.6,26.8,337.5,369.6
+April,Southern,Matara,Apartment,6,40.0,1,0.0,7,2,2,1,1,0,1,0.0,11.7,6.0,2.1,No,0.0,27.3,344.2,326.4
+April,Uva,Monaragala,Single_Family,4,140.4,3,0.0,4,1,3,2,2,3,3,0.0,,5.1,3.9,No,0.0,28.6,,381.3
+April,Uva,Monaragala,Apartment,1,92.5,2,2.0,2,1,1,1,0,2,2,8.1,11.0,6.8,2.8,No,0.0,27.1,402.5,376.5
+April,Uva,Monaragala,Single_Family,2,40.0,1,0.0,4,1,3,0,0,1,0,0.0,8.6,2.8,2.8,No,0.0,29.9,199.1,201.6
+April,Uva,Monaragala,Semi_Detached,4,179.8,5,2.0,6,2,2,1,2,2,1,5.1,5.9,5.8,3.5,Yes,2.9,27.9,474.0,459.8
+April,Uva,Monaragala,Single_Family,5,92.8,2,1.0,6,1,2,1,2,1,2,8.6,7.8,4.4,1.3,No,,28.8,491.0,462.6
+April,Northern,Mullaitivu,Semi_Detached,2,104.8,1,1.0,3,1,1,1,0,1,0,6.4,10.3,5.0,1.5,No,0.0,25.5,239.0,285.0
+April,Central,Nuwara Eliya,Single_Family,5,80.7,2,0.0,7,1,3,1,0,2,1,0.0,11.2,4.8,3.5,No,0.0,25.2,301.3,272.9
+April,North Western,Puttalam,Single_Family,3,106.3,3,0.0,4,2,3,2,2,1,2,0.0,4.9,6.1,1.6,No,0.0,26.5,301.6,329.8
+April,North Western,Puttalam,Single_Family,3,70.4,2,0.0,5,1,3,1,1,2,1,0.0,10.3,3.0,2.3,No,0.0,29.0,287.1,246.8
+April,Eastern,Trincomalee,Single_Family,1,69.2,1,1.0,2,1,2,0,1,3,1,3.2,7.6,3.2,3.2,No,0.0,25.4,252.5,305.5
+April,Eastern,Trincomalee,Single_Family,4,81.5,2,0.0,4,1,3,2,0,0,2,0.0,7.1,4.0,2.4,No,0.0,29.9,309.4,335.9
+April,Northern,Vavuniya,Apartment,6,77.8,2,0.0,7,2,3,0,1,2,1,0.0,9.2,3.6,1.3,No,0.0,29.8,325.0,404.8
+May,North Central,Anuradhapura,Single_Family,6,153.0,4,0.0,8,2,2,0,0,1,3,0.0,9.8,3.2,2.2,Yes,5.6,26.8,268.1,297.3
+May,Eastern,Batticaloa,Single_Family,2,183.5,4,2.0,3,1,2,2,1,2,1,6.4,4.8,3.5,1.6,No,0.0,29.9,438.4,438.1
+May,Eastern,Batticaloa,Single_Family,7,128.6,3,0.0,8,1,3,1,0,2,2,0.0,7.6,2.9,1.2,No,0.0,25.7,315.0,268.6
+May,Western,Colombo,Semi_Detached,3,148.3,4,0.0,5,1,2,0,1,3,3,0.0,8.0,3.6,4.0,No,0.0,29.0,244.3,314.6
+May,Southern,Galle,Apartment,7,51.8,2,0.0,7,1,2,1,0,1,2,0.0,8.3,4.4,2.6,Yes,2.5,27.2,271.6,325.2
+May,Western,Gampaha,Single_Family,7,60.1,2,0.0,8,1,1,1,1,2,1,0.0,5.1,2.8,2.3,No,0.0,28.9,302.5,365.8
+May,Southern,Hambantota,Single_Family,3,103.1,3,0.0,3,1,3,1,2,3,2,0.0,6.0,3.7,3.0,Yes,3.4,25.2,250.6,239.6
+May,Southern,Hambantota,Single_Family,1,54.9,1,0.0,2,1,2,1,0,1,1,0.0,12.0,4.9,2.5,Yes,6.1,30.6,132.8,147.1
+May,Northern,Kilinochchi,Apartment,4,99.3,2,1.0,5,1,1,1,2,1,1,5.7,9.0,4.9,2.9,No,0.0,27.6,414.2,420.7
+May,North Western,Kurunegala,Single_Family,5,116.4,2,0.0,6,1,1,0,2,2,0,0.0,6.9,5.7,1.2,No,0.0,26.4,289.1,306.3
+May,North Western,Kurunegala,Single_Family,3,91.7,3,0.0,5,1,2,1,1,3,1,0.0,5.7,5.1,3.1,No,0.0,25.4,273.5,296.4
+May,Central,Matale,Single_Family,3,40.0,1,2.0,4,1,2,0,1,2,2,4.8,4.5,5.4,3.5,No,0.0,26.7,371.8,328.1
+May,Southern,Matara,Semi_Detached,5,60.4,1,0.0,5,1,1,1,0,3,1,0.0,7.2,4.9,3.5,Yes,2.0,26.1,263.7,247.8
+May,Southern,Matara,Apartment,5,62.2,1,0.0,7,1,3,2,0,1,3,0.0,8.9,3.6,1.2,No,0.0,27.3,326.0,304.6
+May,Southern,Matara,Single_Family,7,127.0,2,0.0,7,1,3,1,1,1,2,0.0,7.3,3.8,1.2,No,0.0,27.7,373.0,352.4
+May,Northern,Mullaitivu,Single_Family,1,40.0,1,0.0,3,2,1,1,1,1,1,0.0,10.8,2.5,3.9,Yes,6.0,,157.5,221.4
+May,Central,Nuwara Eliya,Single_Family,5,61.7,2,1.0,5,1,2,1,1,0,0,2.3,6.2,6.7,1.0,Yes,7.1,30.8,241.1,277.1
+May,Central,Nuwara Eliya,Single_Family,6,136.5,3,0.0,8,2,2,1,0,1,2,0.0,4.4,4.4,3.9,Yes,3.2,29.0,288.7,296.2
+May,North Central,Polonnaruwa,Single_Family,1,46.7,1,0.0,2,2,1,1,1,3,0,0.0,10.5,6.4,2.4,No,0.0,25.1,215.5,245.1
+May,North Central,Polonnaruwa,Apartment,1,116.5,2,0.0,2,2,2,1,1,1,3,0.0,6.1,5.9,3.5,No,0.0,28.3,256.0,239.2
+May,Sabaragamuwa,Ratnapura,Single_Family,6,,2,1.0,8,1,2,0,1,1,1,6.2,8.8,5.5,2.5,No,0.0,30.4,427.9,482.8
+May,Eastern,Trincomalee,Single_Family,7,84.7,2,1.0,8,1,2,1,0,1,0,5.7,6.6,5.4,1.6,No,0.0,26.8,,414.0
+May,Eastern,Trincomalee,Single_Family,7,134.4,3,0.0,8,1,3,2,0,2,3,0.0,7.3,2.9,2.0,No,0.0,30.3,349.0,418.5
+May,Northern,Vavuniya,Single_Family,6,133.8,3,1.0,6,1,1,1,0,1,3,5.0,5.8,2.1,1.6,No,0.0,26.0,406.3,367.5
+June,Eastern,Ampara,Apartment,7,40.0,1,2.0,8,1,2,1,0,2,3,8.7,6.5,5.2,2.3,No,0.0,27.2,485.5,492.1
+June,Eastern,Ampara,Apartment,6,144.5,3,0.0,6,1,2,1,2,2,1,0.0,6.5,4.3,2.4,No,0.0,27.9,391.9,360.8
+June,North Central,Anuradhapura,Single_Family,5,65.6,1,0.0,5,1,2,0,2,2,3,,8.9,2.4,1.9,No,0.0,27.4,,333.5
+June,Uva,Badulla,Apartment,5,,1,0.0,5,2,2,1,0,1,3,0.0,,3.6,3.5,No,0.0,30.5,319.5,297.7
+June,Eastern,Batticaloa,Single_Family,5,139.2,3,0.0,6,2,2,0,0,3,1,0.0,7.3,2.6,1.0,No,0.0,25.3,354.6,259.9
+June,Eastern,Batticaloa,Semi_Detached,4,97.1,2,1.0,6,1,1,2,1,1,3,8.4,5.2,2.1,3.3,No,0.0,28.3,403.3,412.7
+June,Western,Gampaha,Single_Family,7,123.6,3,0.0,8,1,2,1,1,2,1,,10.5,3.1,3.2,No,0.0,29.9,389.0,331.9
+June,Southern,Hambantota,Semi_Detached,7,127.9,3,1.0,8,1,3,0,0,1,0,5.9,8.1,3.7,2.9,No,0.0,26.5,453.5,486.2
+June,Northern,Jaffna,Semi_Detached,2,180.8,4,0.0,3,2,2,1,1,2,0,0.0,5.9,6.0,2.8,No,0.0,28.6,284.6,267.2
+June,Western,Kalutara,Single_Family,3,99.2,3,1.0,4,1,2,1,0,2,0,7.8,5.0,2.8,1.9,No,0.0,28.7,401.1,328.8
+June,Central,Kandy,Semi_Detached,5,92.0,3,1.0,5,1,1,0,1,1,1,3.5,9.7,4.3,1.6,Yes,4.7,28.3,273.8,310.3
+June,Central,Kandy,Single_Family,4,138.1,3,1.0,4,1,1,1,0,2,1,2.2,6.5,2.5,1.9,Yes,6.0,27.6,253.8,276.6
+June,Central,Kandy,Single_Family,7,172.2,4,0.0,8,1,1,2,2,1,2,0.0,8.7,4.2,2.7,No,0.0,25.7,373.1,349.9
+June,Sabaragamuwa,Kegalle,Semi_Detached,2,99.9,1,0.0,3,1,2,1,1,2,2,0.0,9.2,2.6,3.6,No,0.0,27.8,269.2,272.2
+June,Northern,Kilinochchi,Semi_Detached,1,100.8,2,1.0,3,1,3,2,0,0,2,8.2,8.6,6.5,1.7,No,0.0,28.1,364.7,326.2
+June,Southern,Matara,Single_Family,7,157.0,4,0.0,8,1,1,1,1,1,3,0.0,6.2,5.6,1.6,No,0.0,28.3,369.0,379.4
+June,Southern,Matara,Single_Family,1,116.6,2,1.0,1,1,2,0,0,2,1,8.5,4.9,2.4,3.2,Yes,3.6,27.7,237.6,279.5
+June,Uva,Monaragala,Apartment,2,142.7,3,1.0,4,2,2,2,1,2,0,6.1,7.7,3.5,3.5,Yes,5.0,26.7,296.8,336.1
+June,Uva,Monaragala,Apartment,6,86.0,2,0.0,8,1,1,2,1,0,0,0.0,4.4,6.7,3.7,No,0.0,26.9,302.8,321.8
+June,Central,Nuwara Eliya,Semi_Detached,3,107.5,2,0.0,5,2,2,1,0,2,0,0.0,8.3,6.0,1.2,No,0.0,25.3,274.2,230.1
+June,North Central,Polonnaruwa,Apartment,6,178.2,4,0.0,8,1,2,1,0,1,0,0.0,8.3,2.2,3.3,No,0.0,30.6,293.2,278.4
+June,North Western,Puttalam,Apartment,3,,2,1.0,3,1,2,2,1,1,3,2.6,10.1,2.9,3.3,No,0.0,29.6,358.2,352.5
+June,Sabaragamuwa,Ratnapura,Apartment,4,40.0,1,0.0,4,1,2,1,1,2,1,0.0,8.9,5.4,1.2,Yes,2.5,29.4,215.5,233.1
+June,Sabaragamuwa,Ratnapura,Apartment,6,137.3,3,0.0,7,1,2,2,0,2,0,0.0,11.4,2.9,1.5,No,0.0,28.9,280.9,318.4
+June,Eastern,Trincomalee,Single_Family,3,59.3,1,0.0,4,2,1,0,0,1,2,0.0,6.3,4.8,2.3,No,0.0,28.0,272.8,253.6
+June,Northern,Vavuniya,Single_Family,4,106.7,2,2.0,5,1,3,2,0,0,3,4.0,9.4,2.7,1.5,No,0.0,29.5,403.7,383.9
+June,Northern,Vavuniya,Single_Family,4,181.8,5,0.0,6,1,3,1,1,3,3,0.0,12.0,5.1,3.2,No,0.0,28.7,333.8,470.9
+June,Northern,Vavuniya,Single_Family,4,135.9,3,1.0,5,1,1,1,1,1,2,7.3,5.2,6.4,3.6,Yes,2.1,30.0,376.8,393.1
+July,Eastern,Ampara,Single_Family,5,53.3,2,1.0,7,1,3,0,0,1,3,3.2,4.5,4.2,1.6,No,0.0,27.0,,350.4
+July,North Central,Anuradhapura,Apartment,3,136.2,3,1.0,5,1,3,1,1,2,3,4.2,10.2,3.8,2.5,No,0.0,27.6,378.8,365.1
+July,North Central,Anuradhapura,Single_Family,1,160.1,3,0.0,3,2,1,1,1,2,3,0.0,6.2,3.0,3.9,Yes,5.9,27.3,228.9,217.3
+July,Southern,Galle,Single_Family,7,121.9,3,1.0,8,1,3,1,0,0,1,7.2,8.4,6.6,2.7,No,0.0,28.2,473.1,430.1
+July,Southern,Galle,Single_Family,4,192.5,5,0.0,5,1,3,1,1,1,3,0.0,4.6,4.7,1.2,No,0.0,29.8,355.8,357.9
+July,Western,Gampaha,Single_Family,3,141.4,2,2.0,3,1,1,1,0,2,3,2.2,6.7,5.8,2.5,No,0.0,26.2,361.8,375.7
+July,Northern,Jaffna,Single_Family,5,151.6,4,1.0,6,2,3,1,2,2,1,5.0,7.9,3.2,2.6,Yes,2.3,29.9,425.0,436.1
+July,Sabaragamuwa,Kegalle,Single_Family,5,40.0,1,1.0,6,1,1,1,1,2,2,3.0,11.9,3.6,1.4,Yes,3.8,25.2,304.2,320.7
+July,Northern,Kilinochchi,Single_Family,3,56.7,1,2.0,5,2,3,1,2,2,3,5.7,6.9,5.8,1.6,Yes,6.7,29.9,418.2,363.8
+July,Southern,Matara,Single_Family,5,117.4,3,0.0,6,1,2,1,1,1,1,0.0,6.0,5.8,1.5,Yes,2.9,27.0,291.4,241.9
+July,Uva,Monaragala,Apartment,2,117.4,3,2.0,3,1,1,0,1,1,0,3.4,5.8,3.9,3.4,No,0.0,28.8,324.9,300.6
+July,Uva,Monaragala,Single_Family,4,164.3,4,0.0,5,1,2,1,0,2,2,0.0,10.8,2.9,3.3,No,0.0,27.9,285.3,315.2
+July,Central,Nuwara Eliya,Single_Family,7,58.0,1,2.0,8,1,1,2,1,1,0,2.8,9.0,6.2,1.5,Yes,4.7,29.7,375.1,339.2
+July,North Central,Polonnaruwa,Single_Family,3,141.7,4,1.0,5,1,2,0,1,2,2,5.1,8.0,3.3,3.1,Yes,5.1,29.6,,309.4
+July,North Central,Polonnaruwa,Single_Family,4,136.9,2,1.0,6,1,2,1,2,1,2,5.4,4.1,3.5,3.3,No,0.0,29.1,435.9,426.6
+July,North Central,Polonnaruwa,Apartment,5,68.7,1,0.0,7,1,2,1,0,0,3,0.0,5.4,4.1,3.9,No,0.0,29.3,315.6,329.9
+July,North Central,Polonnaruwa,Semi_Detached,3,78.5,1,0.0,4,2,2,1,0,2,3,0.0,9.4,4.8,2.8,Yes,2.9,30.5,239.5,244.0
+July,North Western,Puttalam,Apartment,5,174.4,4,0.0,5,1,1,2,2,3,1,0.0,8.6,6.0,1.8,No,0.0,27.6,336.6,314.9
+July,North Western,Puttalam,Single_Family,1,68.7,1,0.0,1,1,2,1,1,2,2,0.0,5.1,4.9,2.9,No,0.0,26.2,158.0,216.5
+July,Sabaragamuwa,Ratnapura,Apartment,2,128.7,3,1.0,4,1,1,0,1,1,2,5.3,9.7,6.8,3.0,Yes,2.1,27.6,362.3,337.8
+July,Sabaragamuwa,Ratnapura,Single_Family,4,80.4,2,1.0,5,1,3,0,1,3,1,7.6,7.1,4.5,1.8,No,0.0,27.1,383.1,437.8
+August,Eastern,Ampara,Single_Family,6,43.5,1,1.0,8,2,1,2,1,2,2,4.6,11.1,4.1,2.8,No,0.0,29.5,435.3,461.2
+August,Eastern,Ampara,Semi_Detached,5,142.2,4,1.0,7,1,3,0,0,1,1,5.4,6.5,6.1,3.8,No,0.0,,397.3,468.6
+August,Eastern,Ampara,Semi_Detached,2,125.7,3,1.0,2,1,1,0,1,1,3,2.6,10.3,3.4,3.9,Yes,3.3,29.6,272.5,296.2
+August,Eastern,Ampara,Single_Family,3,94.0,1,2.0,4,1,1,1,1,1,2,2.3,11.7,4.7,3.8,No,0.0,29.5,395.6,439.1
+August,Eastern,Ampara,Single_Family,6,177.2,4,1.0,6,1,2,1,1,0,1,6.7,8.7,5.9,1.1,Yes,7.2,26.6,,318.6
+August,North Central,Anuradhapura,Single_Family,2,41.3,1,0.0,2,1,2,1,2,2,2,,4.3,5.2,1.1,Yes,7.6,27.2,174.9,156.3
+August,Uva,Badulla,Single_Family,1,111.7,4,0.0,2,1,2,2,1,3,2,0.0,10.5,3.5,1.8,Yes,4.1,26.9,238.2,176.8
+August,Uva,Badulla,Single_Family,3,105.0,3,0.0,3,1,2,1,1,3,2,0.0,4.8,4.4,1.8,No,0.0,27.4,279.4,258.7
+August,Western,Colombo,Single_Family,1,40.0,1,1.0,1,1,1,1,1,1,1,5.3,11.1,3.2,3.2,Yes,3.7,25.5,264.2,190.4
+August,Western,Colombo,Single_Family,5,149.3,3,0.0,6,1,3,1,2,0,3,0.0,6.3,5.0,2.4,No,0.0,29.7,381.4,376.7
+August,Western,Gampaha,Single_Family,5,59.1,1,0.0,6,1,3,0,2,3,3,0.0,11.0,6.4,4.0,No,0.0,25.1,355.5,345.7
+August,Western,Gampaha,Single_Family,7,,3,2.0,8,1,1,0,1,1,1,8.5,10.9,3.0,3.9,No,0.0,30.7,552.1,581.4
+August,Western,Gampaha,Single_Family,5,100.0,3,0.0,7,2,3,1,2,1,2,0.0,8.8,3.2,3.4,Yes,5.6,28.8,308.9,316.6
+August,Southern,Hambantota,Single_Family,6,102.4,2,,7,2,2,1,0,2,0,0.0,5.4,2.8,2.7,No,0.0,26.1,319.5,305.0
+August,Southern,Hambantota,Semi_Detached,1,118.6,2,0.0,1,2,2,1,2,0,2,0.0,,2.9,2.6,No,0.0,29.0,281.7,286.8
+August,Northern,Jaffna,Single_Family,5,113.1,3,2.0,6,1,1,2,1,1,1,5.7,11.0,5.1,2.9,Yes,5.5,30.9,450.7,418.6
+August,Northern,Jaffna,Apartment,1,126.7,3,1.0,1,2,2,1,1,2,0,5.4,11.3,2.2,1.8,No,0.0,26.9,,316.4
+August,Northern,Jaffna,Single_Family,7,126.8,3,0.0,8,2,1,1,1,2,2,0.0,5.9,6.9,3.5,Yes,4.6,27.0,297.3,360.6
+August,Western,Kalutara,Apartment,4,194.3,3,0.0,4,1,1,1,0,0,3,0.0,11.8,3.0,1.9,Yes,5.6,29.1,242.5,247.6
+August,Central,Kandy,Apartment,5,,3,1.0,6,1,3,0,1,0,3,3.1,6.4,2.5,3.1,No,0.0,27.9,417.2,380.8
+August,Sabaragamuwa,Kegalle,Single_Family,4,61.6,1,2.0,6,1,2,2,0,3,2,4.9,11.0,3.1,3.4,Yes,6.5,29.0,,360.7
+August,North Western,Kurunegala,Semi_Detached,1,118.0,3,0.0,3,2,2,1,2,3,1,0.0,5.0,5.6,1.4,No,0.0,25.8,252.1,319.9
+August,North Western,Kurunegala,Semi_Detached,7,127.5,3,,8,2,3,2,2,3,1,,9.8,5.8,1.8,No,0.0,28.4,457.3,445.2
+August,Central,Matale,Single_Family,7,125.0,3,0.0,7,1,2,1,1,2,2,0.0,11.1,2.2,1.9,Yes,2.1,28.8,341.6,331.8
+August,Southern,Matara,Semi_Detached,1,97.7,2,1.0,3,1,2,1,1,0,0,3.6,10.9,2.4,3.2,No,0.0,27.2,303.1,290.7
+August,Southern,Matara,Semi_Detached,7,,5,1.0,8,1,3,2,0,2,2,4.2,4.7,2.5,1.8,No,0.0,25.5,425.0,455.1
+August,Uva,Monaragala,Single_Family,7,116.5,2,0.0,7,1,2,1,0,2,0,0.0,7.3,4.8,1.4,No,0.0,27.6,316.4,274.7
+August,Uva,Monaragala,Apartment,4,88.8,3,2.0,6,1,2,1,0,2,0,3.3,10.5,3.9,2.0,No,0.0,29.4,367.3,435.5
+August,Uva,Monaragala,Semi_Detached,5,157.7,3,0.0,5,1,1,2,2,0,1,0.0,,4.9,2.5,No,0.0,29.4,324.5,365.0
+August,Uva,Monaragala,Single_Family,2,43.9,1,0.0,3,1,2,1,0,1,1,0.0,7.0,2.6,1.1,No,0.0,30.4,,182.7
+August,North Central,Polonnaruwa,Single_Family,7,140.0,3,0.0,7,1,3,2,2,0,0,0.0,9.2,6.9,2.4,Yes,3.3,28.1,346.1,313.5
+August,North Western,Puttalam,Single_Family,5,102.9,2,0.0,6,2,3,2,0,3,0,0.0,5.5,2.4,2.4,No,0.0,26.9,285.0,330.5
+August,North Western,Puttalam,Single_Family,3,98.2,2,2.0,4,1,2,2,0,2,2,2.0,9.8,3.1,4.0,No,0.0,28.3,384.3,413.6
+August,Eastern,Trincomalee,Single_Family,7,148.4,4,1.0,8,1,1,1,0,2,2,8.8,5.0,5.9,3.0,No,0.0,27.3,450.1,455.7
+September,North Central,Anuradhapura,Apartment,6,40.0,1,1.0,7,1,3,1,0,2,0,7.1,10.2,4.9,3.2,No,0.0,29.8,414.8,382.4
+September,North Central,Anuradhapura,Single_Family,2,104.6,2,0.0,2,1,3,1,0,2,2,0.0,9.9,2.2,1.6,No,0.0,29.3,233.3,224.7
+September,Uva,Badulla,Single_Family,3,177.0,3,,4,1,3,2,0,1,3,3.8,11.5,3.8,2.2,No,,26.8,432.1,426.9
+September,Uva,Badulla,Single_Family,4,,3,1.0,5,1,1,1,0,0,1,3.7,5.4,6.9,3.9,No,0.0,,,313.7
+September,Uva,Badulla,Single_Family,1,74.0,2,2.0,2,2,1,0,1,2,2,8.3,10.1,3.0,2.4,No,0.0,25.6,389.3,402.3
+September,Eastern,Batticaloa,Single_Family,2,169.4,3,1.0,4,1,1,1,1,2,2,,6.6,4.0,2.2,No,0.0,27.3,323.5,369.3
+September,Southern,Galle,Apartment,1,107.0,2,0.0,2,1,1,2,0,3,3,0.0,8.9,5.3,1.1,No,0.0,25.9,233.7,218.8
+September,Southern,Galle,Semi_Detached,6,178.0,5,0.0,6,1,1,1,1,0,3,0.0,5.3,4.5,3.3,No,0.0,27.9,364.6,328.7
+September,Western,Kalutara,Single_Family,6,142.1,3,0.0,7,1,2,1,1,1,2,0.0,9.6,5.7,3.4,No,0.0,29.3,370.1,380.6
+September,Western,Kalutara,Single_Family,4,120.0,3,2.0,5,1,3,2,1,0,3,2.5,5.7,2.2,2.8,Yes,6.7,30.7,355.7,312.9
+September,Sabaragamuwa,Kegalle,Semi_Detached,6,111.7,2,0.0,6,1,2,1,1,3,1,0.0,9.3,4.7,1.8,No,0.0,26.1,346.6,308.0
+September,North Western,Kurunegala,Single_Family,2,,2,0.0,2,1,2,0,1,2,2,0.0,11.4,2.7,1.5,No,0.0,30.3,214.9,228.1
+September,North Western,Kurunegala,Single_Family,1,139.2,2,1.0,1,1,2,1,1,1,3,8.0,4.1,6.3,1.4,No,0.0,25.0,333.3,373.5
+September,North Western,Kurunegala,Single_Family,6,89.6,2,1.0,8,1,1,0,2,2,1,3.0,4.6,2.1,1.3,No,0.0,29.3,401.9,386.0
+September,North Western,Kurunegala,Single_Family,5,60.3,1,0.0,6,1,3,0,1,3,1,0.0,6.1,3.1,2.2,No,0.0,25.5,,281.6
+September,North Western,Kurunegala,Single_Family,7,164.6,3,1.0,8,1,3,1,0,1,3,6.0,8.2,4.0,2.2,No,0.0,25.5,488.1,475.8
+September,Northern,Mannar,Single_Family,1,123.7,3,1.0,2,1,3,1,1,0,2,3.8,11.3,2.7,1.1,No,0.0,28.9,309.0,381.1
+September,Central,Matale,Single_Family,2,120.8,3,1.0,4,1,3,2,1,1,2,3.5,11.0,2.2,3.1,Yes,6.2,31.0,311.8,296.5
+September,Central,Matale,Apartment,7,94.8,3,1.0,7,1,2,2,1,3,3,5.0,7.1,5.3,2.8,Yes,4.7,26.8,368.4,408.4
+September,Central,Matale,Apartment,4,76.2,1,0.0,5,2,1,1,1,3,3,0.0,4.0,6.7,2.3,No,0.0,27.6,317.8,341.1
+September,Uva,Monaragala,Single_Family,6,153.1,3,,8,1,1,1,0,1,1,0.0,6.4,5.6,3.3,Yes,3.6,26.3,293.2,284.4
+September,Uva,Monaragala,Single_Family,4,114.5,2,0.0,4,1,1,1,0,1,2,0.0,6.0,4.9,2.0,No,0.0,29.1,294.0,277.3
+September,Uva,Monaragala,Single_Family,4,93.3,2,1.0,5,1,1,1,1,3,3,,10.9,2.5,3.0,No,0.0,25.8,415.1,407.5
+September,North Western,Puttalam,Apartment,2,213.2,4,0.0,4,2,3,2,1,3,2,0.0,9.4,4.4,3.3,No,0.0,30.8,,385.7
+September,Sabaragamuwa,Ratnapura,Apartment,6,80.4,2,0.0,8,1,3,2,1,1,0,,9.5,4.5,3.3,Yes,4.2,,312.2,309.0
+September,Sabaragamuwa,Ratnapura,Single_Family,2,45.6,2,0.0,2,2,3,1,1,2,3,0.0,6.0,4.0,3.8,Yes,4.4,26.0,209.5,199.6
+September,Eastern,Trincomalee,Single_Family,5,122.8,3,1.0,7,2,2,1,1,0,1,3.6,4.1,6.5,1.7,Yes,3.9,,351.6,358.9
+September,Eastern,Trincomalee,Single_Family,1,61.8,1,0.0,1,1,1,1,1,3,3,0.0,4.1,5.3,3.7,Yes,2.0,29.1,221.0,202.9
+September,Eastern,Trincomalee,Single_Family,2,97.8,2,0.0,3,1,1,0,0,2,2,0.0,7.7,4.3,2.5,Yes,7.9,26.9,133.3,130.9
+October,Eastern,Ampara,Single_Family,1,96.3,2,0.0,2,1,3,1,0,2,0,0.0,4.6,6.9,4.0,No,0.0,27.2,172.8,175.2
+October,North Central,Anuradhapura,Single_Family,4,126.9,3,1.0,5,1,3,1,0,3,2,7.0,7.4,4.3,3.2,No,0.0,25.2,428.2,389.8
+October,North Central,Anuradhapura,Apartment,2,115.9,3,1.0,4,1,3,1,1,0,1,,11.9,2.3,2.9,No,0.0,27.6,335.0,333.1
+October,North Central,Anuradhapura,Apartment,5,154.0,3,0.0,7,1,3,0,1,0,2,0.0,9.5,3.5,3.9,No,0.0,25.0,348.2,314.8
+October,Eastern,Batticaloa,Semi_Detached,5,138.0,3,1.0,7,1,1,1,0,2,2,,6.5,4.6,1.4,No,0.0,28.6,391.9,448.6
+October,Western,Colombo,Single_Family,2,170.6,4,1.0,3,1,3,2,1,2,3,7.8,11.0,2.3,3.9,No,0.0,28.8,452.7,413.3
+October,Western,Gampaha,Semi_Detached,4,135.9,3,0.0,6,1,2,1,0,0,2,0.0,8.9,6.8,3.7,No,0.0,29.6,290.6,287.4
+October,Western,Kalutara,Apartment,4,88.0,2,0.0,6,1,1,2,1,1,3,0.0,5.9,3.8,1.2,No,0.0,26.9,310.1,355.0
+October,Central,Kandy,Apartment,7,113.5,3,1.0,8,1,3,1,2,2,1,4.4,6.3,6.1,3.9,No,0.0,26.3,438.1,416.9
+October,Sabaragamuwa,Kegalle,Semi_Detached,3,70.6,1,0.0,3,1,3,1,1,2,0,0.0,12.0,6.1,3.4,No,0.0,28.8,,265.1
+October,Sabaragamuwa,Kegalle,Single_Family,4,168.1,3,0.0,4,1,1,2,2,1,1,0.0,10.5,3.4,2.5,Yes,7.5,28.8,203.1,262.3
+October,Sabaragamuwa,Kegalle,Semi_Detached,7,92.5,2,2.0,7,1,3,2,1,2,0,7.8,6.2,2.9,3.1,No,0.0,28.0,481.7,433.7
+October,Central,Matale,Single_Family,5,117.7,2,2.0,5,1,2,0,0,2,2,2.3,7.2,2.6,1.6,No,0.0,28.9,375.9,360.0
+October,Central,Matale,Apartment,6,160.6,4,0.0,8,1,2,2,0,0,2,0.0,6.1,2.5,1.6,Yes,3.6,26.4,288.8,266.0
+October,Southern,Matara,Single_Family,3,104.8,2,2.0,5,1,2,1,2,2,0,2.7,7.2,4.2,3.4,No,0.0,28.9,402.3,422.2
+October,Southern,Matara,Single_Family,3,139.9,3,2.0,3,1,2,1,0,2,1,6.7,11.6,2.1,1.3,Yes,6.1,26.8,351.3,372.1
+October,Southern,Matara,Single_Family,1,78.2,2,0.0,3,1,2,2,2,1,1,0.0,9.1,3.8,3.0,No,0.0,,265.8,206.0
+October,Southern,Matara,Semi_Detached,7,107.2,2,0.0,8,1,3,2,0,0,3,0.0,8.2,5.9,3.4,No,0.0,26.3,377.0,379.3
+October,Uva,Monaragala,Single_Family,5,99.5,2,0.0,6,1,1,1,1,2,2,0.0,4.1,5.6,2.7,No,0.0,27.3,,295.2
+October,Uva,Monaragala,Single_Family,1,145.6,3,0.0,3,1,2,1,1,0,1,0.0,,4.6,1.2,Yes,4.8,30.0,228.3,169.1
+October,North Western,Puttalam,Semi_Detached,3,199.5,4,1.0,4,2,1,0,2,2,2,3.0,10.0,2.2,3.0,No,0.0,27.6,396.9,399.2
+October,North Western,Puttalam,Single_Family,6,204.8,5,0.0,6,1,3,1,1,2,0,0.0,7.5,4.3,1.4,No,0.0,30.6,355.7,377.8
+October,North Western,Puttalam,Semi_Detached,4,45.4,2,1.0,6,1,1,1,0,0,0,3.0,11.7,6.6,1.6,No,0.0,30.7,344.5,365.1
+October,Sabaragamuwa,Ratnapura,Single_Family,2,108.3,3,0.0,2,2,2,2,0,3,0,0.0,11.3,4.3,3.8,No,0.0,28.1,264.9,287.6
+October,Eastern,Trincomalee,Single_Family,6,89.3,2,0.0,6,1,2,2,1,1,3,0.0,4.6,3.7,1.1,No,0.0,30.8,361.3,353.1
+November,Eastern,Ampara,Single_Family,7,40.0,1,0.0,8,1,1,1,0,1,0,0.0,4.9,2.8,1.5,No,0.0,25.6,,245.6
+November,Eastern,Ampara,Single_Family,5,96.7,3,0.0,6,1,3,1,1,1,1,0.0,8.5,6.8,1.8,Yes,4.4,26.6,250.2,274.0
+November,Uva,Badulla,Single_Family,3,,3,0.0,3,2,2,0,0,2,1,0.0,5.7,6.1,1.4,No,0.0,29.9,276.9,270.8
+November,Eastern,Batticaloa,Apartment,2,49.9,1,0.0,4,1,1,1,2,0,3,0.0,11.4,2.1,3.2,No,0.0,28.4,268.6,237.6
+November,Eastern,Batticaloa,Semi_Detached,1,127.4,3,0.0,3,1,1,1,1,1,2,0.0,4.8,5.6,3.5,No,0.0,,221.2,219.7
+November,Western,Colombo,Apartment,2,137.6,3,1.0,3,1,1,1,0,2,1,7.0,8.5,3.4,4.0,No,0.0,28.8,298.2,322.2
+November,Southern,Hambantota,Single_Family,3,192.9,5,0.0,3,1,2,1,1,1,2,0.0,6.5,4.4,3.0,No,0.0,26.8,246.6,319.4
+November,Western,Kalutara,Single_Family,7,126.9,3,1.0,8,1,2,1,0,1,3,7.7,11.3,5.4,2.6,No,0.0,25.9,415.9,462.1
+November,Central,Kandy,Single_Family,1,142.3,3,2.0,3,1,2,1,0,2,0,4.8,5.6,5.2,2.8,Yes,6.2,26.4,248.0,256.5
+November,Central,Kandy,Single_Family,7,124.8,3,1.0,7,1,3,1,2,1,1,2.4,9.1,4.9,2.0,Yes,3.9,27.5,448.0,347.9
+November,Sabaragamuwa,Kegalle,Semi_Detached,7,45.6,1,0.0,8,2,1,1,0,0,2,0.0,4.4,6.7,2.8,No,0.0,28.5,311.7,333.3
+November,Sabaragamuwa,Kegalle,Single_Family,2,109.4,2,0.0,3,1,2,2,1,2,2,0.0,7.6,3.8,2.2,No,0.0,26.1,236.7,279.0
+November,Sabaragamuwa,Kegalle,Semi_Detached,6,89.4,1,,6,1,2,2,0,2,0,4.4,10.2,5.8,1.1,No,0.0,29.0,430.6,404.3
+November,Northern,Kilinochchi,Single_Family,6,116.1,2,1.0,7,1,3,1,2,1,2,8.3,8.3,3.5,3.5,No,0.0,27.8,477.7,511.9
+November,Central,Matale,Single_Family,1,98.7,3,1.0,1,1,2,2,2,2,2,2.8,4.9,3.5,2.1,No,0.0,25.2,311.8,327.0
+November,Central,Matale,Single_Family,5,110.1,3,0.0,5,2,2,0,1,1,1,0.0,4.5,2.5,2.2,Yes,5.9,30.1,203.8,226.5
+November,Uva,Monaragala,Single_Family,5,126.3,3,0.0,6,1,3,1,0,1,1,0.0,5.8,3.2,1.6,No,0.0,30.3,311.3,312.8
+November,Northern,Mullaitivu,Semi_Detached,5,164.5,4,1.0,7,1,1,1,2,2,0,,8.8,4.7,2.0,No,0.0,28.4,466.0,439.7
+November,Central,Nuwara Eliya,Single_Family,2,111.5,3,1.0,3,1,1,2,1,3,0,7.9,11.7,2.4,1.6,No,0.0,27.4,354.4,356.0
+November,North Central,Polonnaruwa,Apartment,4,87.1,2,0.0,4,1,3,2,1,2,1,0.0,8.8,6.8,1.4,No,0.0,28.9,275.8,306.6
+November,North Central,Polonnaruwa,Single_Family,5,58.4,1,0.0,5,2,3,0,2,2,0,0.0,8.7,6.2,3.6,No,0.0,30.8,306.7,330.2
+November,North Central,Polonnaruwa,Single_Family,1,104.5,3,2.0,3,1,3,1,2,1,3,7.9,8.7,4.6,1.1,No,0.0,25.5,413.3,419.8
+November,Sabaragamuwa,Ratnapura,Single_Family,2,87.5,2,0.0,4,2,1,1,2,1,1,0.0,10.1,4.1,3.0,No,0.0,26.5,282.3,253.6
+November,Sabaragamuwa,Ratnapura,Semi_Detached,1,138.6,3,2.0,1,1,3,1,1,2,1,4.6,5.1,2.0,2.2,Yes,6.6,27.4,286.0,292.5
+November,Sabaragamuwa,Ratnapura,Apartment,7,127.7,3,0.0,7,1,3,1,1,3,2,0.0,6.2,4.4,3.4,No,0.0,27.1,,328.7
+November,Eastern,Trincomalee,Apartment,5,128.4,2,0.0,7,1,2,1,2,3,2,0.0,7.9,3.7,3.2,No,0.0,26.5,328.3,359.3
+December,North Central,Anuradhapura,Semi_Detached,3,161.4,4,1.0,3,2,3,2,2,2,2,3.2,5.0,4.8,1.6,Yes,7.0,25.5,351.6,356.8
+December,North Central,Anuradhapura,Single_Family,1,,4,1.0,2,1,2,1,0,0,1,7.9,12.0,3.3,2.6,Yes,3.2,29.1,346.4,278.3
+December,Uva,Badulla,Apartment,6,89.0,2,0.0,8,1,1,0,2,0,3,0.0,4.8,4.1,1.7,Yes,3.3,26.5,236.7,278.3
+December,Uva,Badulla,Apartment,7,172.2,5,1.0,7,1,2,1,0,1,1,5.0,11.4,5.5,2.3,No,0.0,30.5,415.2,441.2
+December,Eastern,Batticaloa,Semi_Detached,6,72.9,1,2.0,7,2,3,0,0,1,2,3.3,5.1,4.4,3.8,No,0.0,29.7,487.6,447.0
+December,Eastern,Batticaloa,Apartment,3,145.9,3,1.0,3,2,3,1,1,1,1,8.7,10.5,4.2,1.1,No,0.0,29.1,454.6,452.7
+December,Eastern,Batticaloa,Single_Family,4,62.5,2,1.0,5,1,3,1,0,2,2,7.2,10.3,2.2,2.2,No,0.0,26.7,404.9,371.1
+December,Western,Gampaha,Apartment,1,128.5,2,1.0,1,1,3,1,2,1,1,7.6,7.0,2.1,3.3,No,,25.1,372.2,358.6
+December,Western,Gampaha,Semi_Detached,4,163.8,4,0.0,6,1,1,1,1,1,3,0.0,9.8,6.7,2.6,No,0.0,30.9,305.3,352.6
+December,Northern,Jaffna,Single_Family,7,110.1,2,0.0,8,1,2,0,1,1,0,0.0,11.5,4.2,1.2,No,0.0,26.2,290.0,345.0
+December,Western,Kalutara,Single_Family,1,138.6,3,2.0,3,1,2,1,0,1,1,3.4,10.0,3.2,2.6,No,0.0,26.4,337.7,359.8
+December,Western,Kalutara,Single_Family,6,102.1,1,0.0,7,2,3,1,1,0,0,0.0,11.6,6.8,2.1,No,0.0,27.7,333.2,348.7
+December,Sabaragamuwa,Kegalle,Single_Family,2,117.7,3,1.0,4,1,2,1,0,2,2,,5.4,2.5,2.4,Yes,3.7,28.0,346.6,304.5
+December,Sabaragamuwa,Kegalle,Single_Family,2,116.3,2,0.0,3,1,2,1,1,2,1,0.0,8.6,6.8,2.9,No,0.0,27.0,223.6,297.1
+December,Sabaragamuwa,Kegalle,Semi_Detached,5,40.0,2,2.0,6,1,3,1,0,1,2,3.2,7.6,4.8,3.1,No,0.0,28.7,391.2,369.0
+December,North Western,Kurunegala,Apartment,5,170.4,4,0.0,6,1,2,1,0,1,3,0.0,9.1,4.7,3.0,No,0.0,28.2,351.8,353.2
+December,Northern,Mannar,Apartment,4,78.4,2,1.0,4,1,3,1,0,1,1,4.4,7.1,6.6,3.5,Yes,6.1,30.8,282.6,296.4
+December,Northern,Mannar,Single_Family,5,212.0,5,1.0,6,1,2,1,0,2,1,4.1,7.4,6.4,2.7,Yes,4.4,26.8,344.0,377.9
+December,Southern,Matara,Semi_Detached,7,40.0,1,1.0,8,1,1,2,2,2,0,3.5,9.4,5.0,4.0,Yes,2.0,29.8,404.2,364.8
+December,Uva,Monaragala,Apartment,2,106.0,1,0.0,3,1,1,0,1,2,3,0.0,4.9,6.7,2.6,No,0.0,28.7,281.9,261.4
+December,North Central,Polonnaruwa,Single_Family,5,152.2,3,0.0,7,1,2,2,1,2,2,0.0,4.6,4.6,2.0,Yes,3.9,27.0,,285.6
+December,North Central,Polonnaruwa,Apartment,3,102.8,3,0.0,4,1,1,0,1,1,0,,10.3,4.5,3.7,No,0.0,25.3,198.0,258.0
+December,North Western,Puttalam,Apartment,6,,3,0.0,6,1,2,2,0,0,2,0.0,9.9,3.8,3.0,No,0.0,30.0,343.8,340.0
+December,Sabaragamuwa,Ratnapura,Apartment,5,135.3,3,2.0,6,1,3,1,0,2,1,4.2,5.0,2.1,1.4,No,0.0,30.7,389.3,427.4
+December,Sabaragamuwa,Ratnapura,Semi_Detached,7,53.7,2,0.0,8,1,3,1,0,2,1,0.0,5.6,5.0,3.7,No,0.0,29.8,333.9,346.3
+December,Eastern,Trincomalee,Apartment,2,117.2,3,1.0,3,2,1,1,1,0,0,2.2,10.9,3.1,2.5,No,0.0,29.4,293.0,362.2
+January,Eastern,Ampara,Apartment,7,90.4,1,0.0,8,1,2,1,1,3,3,0.0,8.5,4.1,1.2,No,0.0,30.5,416.3,381.6
+January,North Central,Anuradhapura,Semi_Detached,5,113.0,2,1.0,6,1,2,0,1,2,0,8.7,7.5,2.7,3.9,No,0.0,30.8,486.3,434.0
+January,North Central,Anuradhapura,Single_Family,3,183.4,4,0.0,3,2,2,2,0,2,2,0.0,,4.6,1.1,No,0.0,25.5,,283.2
+January,North Central,Anuradhapura,Apartment,6,,4,0.0,6,1,1,2,0,1,3,0.0,7.2,6.8,1.4,No,0.0,25.6,304.1,337.6
+January,North Central,Anuradhapura,Single_Family,3,,1,2.0,5,1,3,0,0,1,0,7.9,6.9,4.7,3.3,No,0.0,28.5,431.9,404.1
+January,North Central,Anuradhapura,Single_Family,6,77.6,2,0.0,7,1,2,1,1,3,3,0.0,8.9,5.7,2.3,No,0.0,25.2,297.5,398.3
+January,North Central,Anuradhapura,Apartment,5,124.0,3,1.0,5,1,3,0,1,2,2,4.5,7.2,4.2,1.7,Yes,7.9,,325.0,325.8
+January,Uva,Badulla,Single_Family,7,40.0,1,2.0,8,1,1,1,1,1,0,8.1,4.0,2.5,4.0,Yes,6.8,27.3,432.1,385.8
+January,Uva,Badulla,Single_Family,1,121.5,3,0.0,1,1,3,2,1,1,0,0.0,8.0,3.5,2.3,No,0.0,29.5,228.3,266.2
+January,Eastern,Batticaloa,Apartment,4,121.2,3,0.0,5,1,1,1,0,2,1,0.0,5.2,2.7,1.0,No,0.0,25.1,222.2,251.2
+January,Eastern,Batticaloa,Apartment,3,160.0,3,1.0,5,1,3,1,0,2,1,7.0,7.4,3.3,3.9,No,0.0,,358.9,382.9
+January,Western,Colombo,Semi_Detached,3,131.3,3,1.0,5,2,1,2,0,3,0,3.4,9.4,4.4,3.1,No,0.0,28.8,310.0,346.8
+January,Southern,Galle,Single_Family,7,99.9,3,0.0,8,1,3,2,0,1,2,0.0,9.0,3.6,3.7,No,0.0,27.3,374.4,300.1
+January,Western,Kalutara,Single_Family,2,165.7,4,0.0,4,1,1,2,0,0,1,0.0,4.9,5.1,3.4,No,0.0,29.4,215.1,268.5
+January,Western,Kalutara,Semi_Detached,5,98.9,2,1.0,6,1,1,1,2,3,1,8.0,4.5,3.4,1.4,No,0.0,28.1,,428.1
+January,Western,Kalutara,Single_Family,5,154.9,4,2.0,6,1,3,1,1,2,0,3.0,11.4,2.8,2.5,Yes,4.2,30.1,420.5,401.7
+January,Western,Kalutara,Semi_Detached,1,105.9,3,0.0,3,1,1,1,1,2,1,0.0,5.4,6.9,3.3,No,0.0,31.0,233.2,251.1
+January,North Western,Kurunegala,Semi_Detached,1,126.4,4,0.0,2,1,1,1,0,2,0,0.0,10.4,7.0,1.5,No,0.0,29.1,213.7,226.2
+January,Southern,Matara,Single_Family,3,129.5,4,0.0,5,1,3,1,1,2,3,0.0,5.7,6.2,1.6,No,0.0,30.7,286.3,317.1
+January,Uva,Monaragala,Single_Family,4,90.9,2,0.0,4,1,3,1,2,1,3,0.0,11.7,2.0,1.8,No,0.0,25.3,317.4,292.1
+January,Northern,Mullaitivu,Semi_Detached,5,72.4,2,1.0,7,2,1,2,1,0,2,,4.2,6.7,3.0,Yes,6.9,30.7,312.1,325.1
+January,Central,Nuwara Eliya,Apartment,2,116.9,4,0.0,2,1,1,2,2,0,2,0.0,10.3,6.8,4.0,No,0.0,25.3,244.3,290.4
+January,North Central,Polonnaruwa,Apartment,3,157.5,4,1.0,5,2,1,0,2,1,3,4.6,9.0,5.3,2.4,Yes,4.4,25.3,320.9,327.8
+January,North Western,Puttalam,Single_Family,3,88.9,2,1.0,3,1,3,1,0,1,0,5.3,6.8,2.9,3.0,No,0.0,30.4,327.2,291.8
+January,North Western,Puttalam,Single_Family,2,167.7,4,1.0,2,1,1,1,0,1,3,4.5,5.3,5.6,3.6,Yes,6.7,29.4,292.7,264.4
+February,Eastern,Ampara,Single_Family,3,98.0,2,0.0,3,1,1,1,1,0,1,0.0,10.9,5.5,1.6,No,0.0,26.1,262.3,247.9
+February,North Central,Anuradhapura,Single_Family,6,47.6,1,0.0,8,1,1,0,1,1,2,0.0,11.8,3.4,3.4,No,0.0,29.8,332.1,333.3
+February,North Central,Anuradhapura,Single_Family,5,98.3,2,1.0,7,2,1,1,0,2,1,6.6,7.4,6.0,2.1,No,0.0,26.2,423.3,378.5
+February,Uva,Badulla,Semi_Detached,3,134.8,3,1.0,5,1,2,1,0,3,3,6.0,7.7,5.2,3.5,No,0.0,27.7,414.3,415.8
+February,Uva,Badulla,Apartment,3,69.3,2,0.0,5,2,2,1,2,3,2,0.0,4.0,3.4,2.1,No,0.0,29.8,334.7,292.8
+February,Eastern,Batticaloa,Semi_Detached,6,133.4,3,1.0,6,2,3,2,0,0,1,2.9,11.1,2.5,3.0,No,0.0,29.3,379.7,417.4
+February,Western,Colombo,Single_Family,7,40.0,1,0.0,7,1,3,1,0,0,0,0.0,4.9,3.1,3.5,No,0.0,27.1,314.2,290.7
+February,Western,Colombo,Single_Family,6,116.4,2,0.0,7,1,1,0,1,2,2,0.0,5.1,4.7,1.4,Yes,5.2,25.5,247.3,236.1
+February,Southern,Hambantota,Single_Family,4,62.0,2,,6,2,1,1,1,1,3,0.0,9.1,6.3,2.7,No,0.0,28.2,319.6,381.8
+February,Northern,Jaffna,Single_Family,5,132.6,3,0.0,5,1,1,1,2,0,1,0.0,6.0,3.8,1.2,Yes,,29.0,278.3,290.5
+February,Western,Kalutara,Single_Family,7,177.4,4,0.0,8,1,1,1,0,2,1,0.0,10.9,5.8,1.6,Yes,5.6,29.2,294.7,288.8
+February,Central,Kandy,Single_Family,1,92.0,2,0.0,2,1,2,1,0,3,3,0.0,6.2,5.1,2.3,Yes,7.9,27.9,125.6,172.1
+February,Sabaragamuwa,Kegalle,Semi_Detached,6,98.5,2,0.0,6,1,3,1,0,1,2,0.0,5.3,3.7,3.9,No,0.0,26.6,294.4,260.9
+February,Sabaragamuwa,Kegalle,Apartment,2,113.3,3,0.0,2,2,2,1,1,2,3,0.0,8.4,2.5,1.0,No,0.0,29.7,289.6,293.3
+February,Northern,Kilinochchi,Semi_Detached,5,141.6,3,2.0,5,1,1,1,2,0,2,2.4,,4.8,1.7,No,0.0,30.5,438.6,485.7
+February,Northern,Mannar,Single_Family,5,118.5,2,0.0,7,1,1,0,0,3,3,0.0,4.5,4.5,3.4,No,0.0,29.4,,288.0
+February,Central,Matale,Single_Family,7,140.1,3,1.0,8,1,2,1,2,2,1,8.5,10.7,4.7,1.1,No,0.0,30.5,505.1,600.2
+February,Central,Matale,Single_Family,2,118.0,3,0.0,3,1,1,0,1,0,1,0.0,8.0,4.7,1.4,Yes,2.8,27.6,226.5,172.2
+February,Central,Matale,Single_Family,6,104.6,2,2.0,8,1,3,1,2,1,3,5.5,9.8,6.0,1.7,No,0.0,25.8,508.4,532.1
+February,Central,Matale,Apartment,3,99.3,3,1.0,4,1,1,0,0,2,2,7.0,4.5,2.7,1.6,No,0.0,28.7,355.7,345.1
+February,Uva,Monaragala,Apartment,7,96.3,2,0.0,7,1,2,1,1,2,0,0.0,6.7,4.1,1.9,Yes,6.8,29.3,,249.6
+February,Uva,Monaragala,Single_Family,4,40.0,1,1.0,4,1,1,1,1,1,3,8.0,5.3,5.7,1.3,No,0.0,28.7,440.2,366.2
+February,Northern,Mullaitivu,Semi_Detached,4,40.0,1,1.0,4,1,2,0,1,2,0,8.9,11.7,5.1,2.1,No,0.0,26.5,397.9,398.8
+February,Central,Nuwara Eliya,Semi_Detached,4,,3,0.0,6,1,2,1,2,0,1,0.0,10.1,6.1,3.4,Yes,2.2,28.5,264.1,341.8
+February,Central,Nuwara Eliya,Single_Family,1,82.6,2,2.0,3,1,2,2,0,2,0,6.3,10.1,5.3,2.4,No,0.0,26.1,374.4,344.9
+February,North Western,Puttalam,Single_Family,2,132.1,3,2.0,3,2,1,1,0,2,3,8.8,5.6,2.6,1.6,No,0.0,27.0,417.5,420.6
+February,North Western,Puttalam,Single_Family,3,155.5,3,1.0,5,1,1,1,1,1,3,5.0,8.3,2.1,1.2,No,0.0,27.0,398.7,387.4
+February,North Western,Puttalam,Single_Family,3,108.1,2,1.0,3,1,1,2,0,1,2,2.6,9.6,3.5,3.4,Yes,5.0,29.7,295.1,266.1
+February,Sabaragamuwa,Ratnapura,Single_Family,5,60.5,1,0.0,7,2,1,0,0,1,3,0.0,6.5,3.5,2.5,Yes,4.5,30.1,236.2,229.4
+March,Eastern,Ampara,Single_Family,3,,3,2.0,4,1,1,1,1,2,1,8.1,4.6,4.3,2.5,No,0.0,30.2,466.0,451.9
+March,North Central,Anuradhapura,Single_Family,5,40.0,1,2.0,5,2,3,1,2,0,3,8.1,11.8,3.9,3.6,No,0.0,25.6,532.9,498.5
+March,Uva,Badulla,Apartment,3,195.3,4,1.0,4,1,3,1,0,1,2,5.4,5.6,3.5,3.5,No,0.0,27.6,394.6,420.7
+March,Uva,Badulla,Single_Family,4,85.7,2,0.0,4,1,3,1,1,1,3,0.0,10.0,6.2,1.1,No,0.0,28.9,273.7,309.4
+March,Western,Colombo,Apartment,4,49.4,1,1.0,5,1,1,2,1,1,3,2.1,8.6,6.9,1.3,No,0.0,28.7,373.5,393.5
+March,Western,Colombo,Single_Family,1,79.0,2,1.0,1,2,1,0,2,1,1,5.2,7.5,4.7,2.8,Yes,5.2,28.3,263.6,271.6
+March,Western,Colombo,Single_Family,1,66.6,2,0.0,3,1,1,2,2,2,0,0.0,10.9,5.0,2.9,No,0.0,,262.2,250.2
+March,Southern,Galle,Semi_Detached,7,141.4,3,0.0,8,2,2,1,0,0,2,0.0,11.4,3.8,3.3,No,0.0,30.4,343.1,367.8
+March,Western,Gampaha,Single_Family,3,40.0,1,1.0,5,1,1,1,0,1,2,5.7,11.9,2.9,3.0,No,0.0,26.2,343.0,292.5
+March,Southern,Hambantota,Single_Family,4,42.2,2,0.0,4,1,3,0,1,0,0,0.0,10.1,3.9,2.7,No,0.0,28.6,253.3,246.3
+March,Southern,Hambantota,Single_Family,5,158.7,3,0.0,7,1,3,0,2,1,2,0.0,8.8,3.3,2.3,Yes,7.8,29.4,242.7,254.0
+March,Northern,Jaffna,Single_Family,4,112.4,3,1.0,5,2,1,1,0,0,0,3.4,6.3,5.7,3.6,No,0.0,29.4,298.3,376.7
+March,Northern,Jaffna,Semi_Detached,3,159.5,3,2.0,3,1,2,1,0,1,0,5.2,8.9,5.5,1.1,Yes,2.7,,287.1,369.2
+March,Northern,Jaffna,Single_Family,2,119.1,2,1.0,2,2,2,2,2,0,0,8.6,10.4,6.3,3.6,No,0.0,25.4,366.0,451.1
+March,Northern,Kilinochchi,Semi_Detached,5,111.9,3,0.0,7,1,2,1,1,2,1,0.0,7.9,4.2,1.4,No,0.0,28.5,340.8,279.2
+March,Northern,Mannar,Apartment,2,68.4,2,2.0,2,2,3,0,0,3,2,7.1,11.2,6.7,1.7,No,0.0,28.8,417.5,473.0
+March,Northern,Mannar,Single_Family,7,40.0,1,0.0,8,2,2,0,1,2,2,0.0,7.8,2.9,3.4,No,0.0,26.7,,302.8
+March,Northern,Mannar,Single_Family,3,207.0,5,0.0,3,1,3,0,0,3,1,0.0,5.3,2.3,1.5,No,0.0,26.5,225.7,284.3
+March,Northern,Mannar,Single_Family,3,64.0,2,0.0,3,1,2,1,2,3,2,0.0,6.8,3.6,2.5,No,0.0,26.4,294.4,273.4
+March,Northern,Mannar,Single_Family,1,139.0,3,2.0,1,1,1,2,2,1,3,2.7,11.8,2.7,1.7,No,0.0,26.2,323.8,371.2
+March,Southern,Matara,Single_Family,6,76.2,1,0.0,7,1,1,2,1,2,1,0.0,4.9,5.8,3.2,Yes,4.6,26.4,298.4,245.4
+March,Uva,Monaragala,Apartment,4,40.0,2,2.0,6,2,3,1,2,2,0,7.0,10.6,6.4,1.5,No,0.0,29.0,,477.7
+March,Uva,Monaragala,Single_Family,3,114.2,3,2.0,3,1,2,2,1,1,0,4.8,11.9,4.8,1.3,No,0.0,29.4,396.3,414.8
+March,Northern,Mullaitivu,Semi_Detached,3,88.2,3,2.0,5,1,1,2,1,2,2,7.8,8.9,2.9,1.4,No,0.0,28.5,415.4,487.1
+March,Central,Nuwara Eliya,Semi_Detached,7,69.6,2,2.0,8,1,3,1,1,2,1,3.3,5.5,5.6,1.6,Yes,2.4,29.0,471.5,478.3
+March,Central,Nuwara Eliya,Single_Family,3,115.9,3,2.0,5,1,1,1,0,1,3,3.9,11.9,5.7,2.3,No,0.0,25.4,395.5,365.3
+March,North Central,Polonnaruwa,Apartment,3,101.8,3,1.0,3,2,2,0,1,1,0,8.0,5.7,3.6,2.0,No,0.0,25.2,388.4,392.3
+March,North Western,Puttalam,Apartment,2,184.7,5,0.0,4,2,3,2,0,3,0,0.0,5.6,5.3,4.0,No,0.0,28.1,290.2,229.5
+March,Sabaragamuwa,Ratnapura,Semi_Detached,1,94.1,2,1.0,1,2,1,0,1,2,0,3.5,10.0,2.9,3.6,No,0.0,30.4,,284.6
+March,Northern,Vavuniya,Single_Family,5,98.2,2,1.0,7,2,3,2,1,1,3,6.0,4.8,5.7,3.8,No,0.0,26.0,465.3,494.9
+April,Eastern,Ampara,Single_Family,6,127.7,3,2.0,7,1,3,0,0,2,1,6.3,11.8,4.2,3.1,No,0.0,25.3,468.2,471.7
+April,Eastern,Batticaloa,Apartment,4,88.4,2,0.0,5,1,2,0,0,2,3,0.0,10.6,6.8,2.2,Yes,2.2,25.5,238.6,266.9
+April,Eastern,Batticaloa,Apartment,6,123.1,3,1.0,7,1,1,1,1,2,0,8.5,4.4,6.3,3.6,No,0.0,29.0,456.4,502.0
+April,Western,Colombo,Single_Family,6,87.3,2,0.0,7,1,2,1,1,3,2,0.0,6.8,2.7,3.8,No,0.0,28.6,,359.5
+April,Western,Gampaha,Single_Family,2,68.2,1,0.0,3,2,1,1,1,1,2,0.0,4.3,2.1,3.8,No,0.0,28.2,239.7,257.9
+April,Southern,Hambantota,Single_Family,4,220.4,4,2.0,6,1,2,2,1,0,0,7.7,11.9,6.0,2.9,No,0.0,29.9,504.4,502.8
+April,Southern,Hambantota,Semi_Detached,4,40.0,1,0.0,4,1,3,2,1,0,2,0.0,5.4,4.8,3.0,No,0.0,28.2,,284.4
+April,Southern,Hambantota,Single_Family,3,100.9,2,2.0,5,2,2,1,0,2,0,2.4,8.2,2.1,3.4,No,0.0,26.4,352.6,361.4
+April,Southern,Hambantota,Single_Family,6,90.6,3,0.0,8,1,3,1,1,0,2,0.0,9.8,4.6,1.7,Yes,3.4,25.4,263.0,266.7
+April,Central,Kandy,Single_Family,2,,4,0.0,2,1,3,1,0,0,2,0.0,11.4,5.4,3.7,No,0.0,27.2,228.2,289.5
+April,Sabaragamuwa,Kegalle,Single_Family,4,160.3,3,0.0,6,1,3,1,1,2,3,0.0,8.5,6.1,3.7,Yes,7.9,29.3,268.6,250.3
+April,Sabaragamuwa,Kegalle,Single_Family,7,114.3,3,1.0,8,1,3,1,1,3,2,3.4,7.6,2.2,2.1,Yes,7.1,29.9,353.9,403.2
+April,North Western,Kurunegala,Single_Family,3,107.6,2,0.0,5,1,1,0,1,1,0,0.0,6.7,3.9,2.9,No,0.0,27.5,231.4,205.3
+April,North Western,Kurunegala,Single_Family,3,131.0,3,1.0,4,1,2,2,0,2,2,5.8,7.4,5.3,2.0,No,0.0,27.9,379.1,305.8
+April,North Western,Kurunegala,Semi_Detached,4,105.4,2,2.0,6,1,1,1,0,3,1,8.0,10.8,5.5,3.1,Yes,4.9,30.9,476.2,410.8
+April,North Western,Kurunegala,Single_Family,3,62.4,1,0.0,3,1,1,1,1,2,0,0.0,5.4,6.7,1.6,Yes,7.3,29.3,126.6,148.2
+April,Central,Matale,Single_Family,6,166.2,4,2.0,7,2,3,1,1,1,3,3.6,9.7,6.6,1.5,No,0.0,27.7,506.9,541.8
+April,Uva,Monaragala,Single_Family,1,63.0,1,0.0,2,1,2,2,2,0,0,0.0,5.0,6.3,2.2,Yes,2.4,30.1,243.7,184.8
+April,North Central,Polonnaruwa,Semi_Detached,1,111.2,3,0.0,2,2,1,2,1,1,2,0.0,10.7,6.4,3.5,No,0.0,25.5,202.1,233.7
+April,North Western,Puttalam,Apartment,2,118.9,2,0.0,2,1,1,1,2,3,2,0.0,11.8,6.7,3.9,No,0.0,29.0,245.1,247.9
+April,North Western,Puttalam,Apartment,7,144.4,3,0.0,8,2,1,2,0,1,2,0.0,6.7,5.9,2.3,No,0.0,26.6,366.2,375.7
+April,Sabaragamuwa,Ratnapura,Semi_Detached,1,135.6,3,0.0,3,1,2,1,1,1,3,0.0,9.5,6.4,3.9,Yes,5.2,25.3,,204.4
+April,Sabaragamuwa,Ratnapura,Semi_Detached,1,75.3,2,0.0,3,2,1,2,0,2,3,0.0,6.2,2.5,1.3,Yes,6.9,30.6,174.2,197.4
+April,Sabaragamuwa,Ratnapura,Single_Family,4,62.1,1,0.0,5,1,3,1,0,2,3,0.0,11.9,3.9,2.2,Yes,2.0,26.9,243.7,261.1
+May,North Central,Anuradhapura,Apartment,2,145.0,3,0.0,3,1,3,0,1,2,3,0.0,11.5,5.0,1.0,No,0.0,30.5,319.3,320.9
+May,North Central,Anuradhapura,Apartment,3,91.3,2,0.0,4,1,1,2,1,1,0,0.0,7.1,4.7,1.1,No,0.0,26.8,207.2,274.7
+May,Uva,Badulla,Apartment,1,116.5,2,2.0,1,1,2,1,0,1,0,6.6,6.1,2.1,2.1,Yes,7.0,29.7,289.4,276.5
+May,Eastern,Batticaloa,Single_Family,6,128.4,3,0.0,7,2,3,1,1,2,3,0.0,7.3,3.0,3.1,Yes,4.0,27.4,327.3,299.7
+May,Southern,Galle,Single_Family,3,156.6,4,0.0,4,1,1,2,0,2,1,0.0,5.0,4.8,3.3,Yes,4.5,25.9,191.5,214.0
+May,Southern,Hambantota,Single_Family,6,156.5,3,1.0,6,2,3,1,0,3,1,3.8,10.8,4.2,2.2,No,0.0,27.3,448.5,455.7
+May,Central,Kandy,Single_Family,5,40.0,1,0.0,6,1,3,1,2,3,1,,10.4,5.1,2.5,No,0.0,25.9,303.6,312.9
+May,Sabaragamuwa,Kegalle,Single_Family,6,218.9,5,2.0,6,1,2,2,2,1,3,2.2,6.2,6.6,3.0,No,0.0,26.0,502.2,520.9
+May,Sabaragamuwa,Kegalle,Single_Family,2,50.9,2,0.0,2,1,3,1,1,1,3,0.0,10.8,3.3,2.4,No,0.0,25.1,250.7,237.5
+May,North Western,Kurunegala,Single_Family,5,194.9,3,0.0,5,1,3,2,2,2,2,0.0,9.7,5.0,2.1,Yes,7.4,29.4,270.2,297.4
+May,Southern,Matara,Semi_Detached,4,81.1,3,0.0,5,1,1,1,1,0,3,,7.4,5.0,3.6,No,0.0,30.5,293.0,295.9
+May,Southern,Matara,Apartment,1,86.0,1,1.0,3,1,3,1,0,2,0,5.1,9.4,5.5,3.0,No,0.0,28.4,362.5,297.7
+May,Southern,Matara,Semi_Detached,5,186.1,5,0.0,6,1,1,0,0,0,0,0.0,10.3,4.2,2.6,Yes,7.5,29.4,196.1,186.8
+May,Southern,Matara,Single_Family,4,172.6,4,0.0,4,2,1,2,2,3,0,0.0,7.5,4.7,1.5,No,0.0,30.8,395.4,387.2
+May,Uva,Monaragala,Apartment,2,91.1,2,0.0,2,1,1,1,2,0,3,0.0,11.9,4.8,2.9,No,0.0,28.8,297.5,265.3
+May,Northern,Mullaitivu,Single_Family,1,143.5,3,0.0,3,1,1,0,0,0,3,0.0,9.0,2.8,3.4,No,0.0,28.3,223.7,202.1
+May,Northern,Mullaitivu,Single_Family,3,52.9,2,0.0,4,1,2,1,0,2,1,0.0,11.5,6.2,2.1,No,0.0,26.0,223.5,172.9
+May,North Central,Polonnaruwa,Single_Family,3,64.7,2,1.0,4,2,2,0,1,2,1,6.8,9.3,3.1,3.6,No,0.0,25.2,393.4,357.9
+May,North Western,Puttalam,Single_Family,1,223.8,6,1.0,2,2,1,1,2,1,0,8.7,8.8,3.3,3.7,No,0.0,28.8,421.5,362.3
+May,Sabaragamuwa,Ratnapura,Apartment,6,75.7,2,,8,1,3,1,1,2,3,4.5,11.8,2.9,3.9,No,0.0,,435.6,458.7
+May,Eastern,Trincomalee,Apartment,3,114.2,3,2.0,4,1,3,0,0,3,1,8.6,11.3,3.7,1.9,Yes,7.3,27.2,318.5,358.1
+May,Northern,Vavuniya,Single_Family,4,176.5,4,0.0,5,1,3,1,0,0,1,0.0,10.5,2.2,3.9,No,0.0,29.1,313.0,310.5
+June,North Central,Anuradhapura,Apartment,7,40.0,1,0.0,7,1,1,0,2,2,2,0.0,6.7,3.9,2.7,No,0.0,27.5,353.7,318.1
+June,Uva,Badulla,Single_Family,5,120.8,3,2.0,6,2,1,2,1,3,2,4.6,9.8,4.1,1.6,No,0.0,28.9,481.6,518.0
+June,Eastern,Batticaloa,Single_Family,4,87.7,1,0.0,6,2,1,1,0,2,0,0.0,9.6,2.8,1.0,No,0.0,27.6,191.0,280.2
+June,Eastern,Batticaloa,Single_Family,5,92.0,1,0.0,7,1,1,1,0,3,3,0.0,6.9,2.3,1.0,Yes,4.9,28.8,269.3,267.2
+June,Eastern,Batticaloa,Single_Family,5,115.4,3,0.0,7,1,1,1,2,2,2,0.0,5.5,4.4,1.1,No,0.0,25.4,331.9,330.9
+June,Western,Colombo,Single_Family,5,92.6,2,2.0,6,1,1,2,1,2,1,7.2,11.3,2.2,2.0,No,0.0,27.0,407.8,499.9
+June,Southern,Galle,Single_Family,7,40.0,1,1.0,8,1,1,0,1,0,2,2.7,11.0,3.9,3.4,No,0.0,30.8,391.1,378.8
+June,Southern,Galle,Single_Family,4,,2,1.0,6,1,1,2,0,2,3,3.8,7.0,4.7,1.3,Yes,3.8,29.5,,355.4
+June,Southern,Galle,Single_Family,7,90.3,1,0.0,8,1,2,1,1,2,0,0.0,5.5,6.3,2.7,No,0.0,28.6,317.6,269.7
+June,Southern,Galle,Semi_Detached,2,40.0,1,0.0,2,1,3,1,1,2,3,0.0,6.6,6.5,2.9,No,0.0,30.0,326.0,237.7
+June,Western,Gampaha,Semi_Detached,4,138.7,3,0.0,4,1,1,2,0,0,3,0.0,7.7,3.0,1.8,No,0.0,26.6,243.6,257.9
+June,Western,Gampaha,Single_Family,1,96.5,2,1.0,2,1,1,0,0,1,2,2.1,7.8,2.6,2.5,No,0.0,28.0,,215.1
+June,Western,Gampaha,Single_Family,5,40.0,1,0.0,5,2,1,1,1,3,2,0.0,10.2,4.2,3.6,No,0.0,28.7,361.6,296.8
+June,Western,Gampaha,Semi_Detached,3,58.2,1,0.0,4,1,1,1,2,1,1,0.0,10.0,4.8,1.1,No,0.0,29.3,271.8,238.4
+June,Northern,Jaffna,Semi_Detached,4,177.7,4,0.0,4,1,1,1,1,0,1,0.0,11.0,2.2,2.7,Yes,3.6,27.5,219.4,265.0
+June,Northern,Jaffna,Semi_Detached,2,84.5,2,1.0,2,2,1,2,1,1,1,6.8,4.4,4.1,3.4,No,0.0,26.7,385.8,356.7
+June,Central,Kandy,Semi_Detached,7,40.0,1,0.0,8,1,1,2,0,0,1,0.0,10.3,2.3,3.7,No,0.0,25.5,297.9,299.0
+June,Central,Kandy,Apartment,7,140.7,3,1.0,7,1,1,1,2,1,1,2.1,4.8,6.3,2.2,Yes,5.9,26.6,344.6,292.0
+June,Sabaragamuwa,Kegalle,Single_Family,6,59.7,1,2.0,8,1,3,1,1,2,0,8.0,5.3,3.9,1.1,No,0.0,29.2,515.0,458.4
+June,Sabaragamuwa,Kegalle,Single_Family,4,92.0,2,0.0,4,1,3,1,1,3,3,0.0,10.2,3.2,3.8,No,0.0,28.0,318.4,314.4
+June,Sabaragamuwa,Kegalle,Single_Family,1,162.2,3,0.0,2,2,3,1,0,2,1,0.0,10.9,3.5,2.0,No,0.0,28.2,284.0,250.5
+June,Northern,Kilinochchi,Single_Family,2,114.4,3,0.0,2,1,2,1,0,2,3,0.0,11.8,6.7,1.4,Yes,6.3,29.3,147.2,216.8
+June,Northern,Kilinochchi,Semi_Detached,7,111.7,2,1.0,8,2,1,0,0,1,0,4.2,5.9,2.1,1.3,Yes,5.1,25.9,311.9,308.4
+June,Northern,Mullaitivu,Single_Family,3,127.2,3,0.0,5,2,1,1,1,2,0,0.0,10.6,3.6,3.8,Yes,4.0,30.6,253.3,282.8
+June,Central,Nuwara Eliya,Apartment,7,40.0,2,0.0,7,2,1,1,2,1,3,0.0,8.7,4.5,3.5,No,0.0,26.1,343.9,322.1
+June,North Western,Puttalam,Apartment,3,,2,0.0,3,1,1,1,0,1,1,0.0,5.8,5.1,1.0,No,0.0,30.7,234.2,215.1
+June,Sabaragamuwa,Ratnapura,Single_Family,3,123.8,2,2.0,4,1,2,2,1,0,2,4.9,5.1,6.6,2.8,Yes,,25.2,295.9,298.2
+July,North Central,Anuradhapura,Single_Family,4,194.2,5,0.0,6,1,3,1,2,2,1,0.0,7.0,5.5,3.9,Yes,3.4,27.3,,281.5
+July,North Central,Anuradhapura,Semi_Detached,1,95.5,2,0.0,2,2,3,1,0,2,3,0.0,10.2,3.9,3.1,No,0.0,29.5,245.9,265.8
+July,North Central,Anuradhapura,Single_Family,4,129.5,3,0.0,6,1,1,0,1,2,2,0.0,,4.0,3.9,No,0.0,27.7,336.7,305.5
+July,Uva,Badulla,Apartment,1,116.4,3,2.0,1,1,2,2,0,2,2,2.7,5.2,2.7,2.4,Yes,4.9,31.0,286.6,280.5
+July,Uva,Badulla,Single_Family,5,108.6,3,0.0,7,2,1,2,2,2,2,0.0,11.9,6.8,1.5,No,0.0,28.2,339.8,393.2
+July,Eastern,Batticaloa,Semi_Detached,5,162.8,5,0.0,6,1,3,2,0,2,2,0.0,4.8,3.2,3.4,No,0.0,28.1,341.2,341.7
+July,Eastern,Batticaloa,Single_Family,1,40.0,1,0.0,3,2,2,1,2,2,0,0.0,9.5,4.6,3.5,No,0.0,27.2,241.3,248.1
+July,Southern,Galle,Single_Family,6,122.9,3,0.0,8,1,2,0,2,1,0,0.0,7.8,4.4,2.7,No,0.0,30.5,429.5,375.5
+July,Southern,Galle,Semi_Detached,2,67.6,1,0.0,4,1,2,0,1,1,2,0.0,11.9,3.8,1.7,No,0.0,29.4,243.9,291.3
+July,Southern,Galle,Single_Family,3,180.4,4,1.0,5,1,3,1,2,3,0,2.9,7.4,6.4,2.8,No,0.0,28.1,392.0,362.4
+July,Western,Gampaha,Semi_Detached,2,109.5,3,0.0,3,2,1,2,0,3,1,0.0,,3.7,3.9,No,0.0,27.3,218.7,257.9
+July,Western,Gampaha,Semi_Detached,1,141.7,3,,2,1,3,1,1,2,1,6.9,6.5,6.3,2.5,No,0.0,25.7,343.9,369.1
+July,Western,Gampaha,Single_Family,5,115.4,2,2.0,5,1,3,1,2,2,3,3.0,6.6,5.6,1.6,No,0.0,28.3,472.6,437.2
+July,Northern,Jaffna,Apartment,5,100.3,3,1.0,7,1,3,1,0,0,3,3.3,7.9,3.7,1.9,No,0.0,28.4,375.9,381.1
+July,Western,Kalutara,Apartment,1,117.8,3,1.0,3,1,1,1,0,3,1,7.0,8.1,2.9,3.9,No,0.0,27.0,357.9,324.1
+July,Western,Kalutara,Single_Family,1,141.6,4,0.0,3,2,1,1,1,0,3,0.0,6.7,3.5,1.4,No,0.0,29.9,276.0,259.8
+July,Central,Kandy,Single_Family,7,96.4,1,1.0,8,1,1,1,0,2,0,5.2,6.0,2.9,3.2,No,0.0,29.1,360.9,458.6
+July,Central,Kandy,Single_Family,3,118.0,3,1.0,5,2,3,1,0,2,3,4.2,,3.9,1.6,No,0.0,,362.9,427.1
+July,Sabaragamuwa,Kegalle,Apartment,3,43.1,1,1.0,3,1,2,2,0,0,1,5.6,10.9,6.6,3.4,Yes,,31.0,320.5,312.1
+July,North Western,Kurunegala,Apartment,2,120.2,3,0.0,2,1,1,1,0,1,0,0.0,11.1,3.5,1.1,Yes,7.3,26.0,69.1,105.8
+July,Northern,Mannar,Single_Family,4,78.8,1,1.0,5,1,1,0,1,3,3,4.5,,2.8,3.3,No,0.0,25.7,335.4,361.1
+July,Southern,Matara,Single_Family,1,123.2,3,0.0,2,1,1,1,0,0,0,0.0,8.2,5.3,2.3,No,0.0,25.9,148.4,126.2
+July,Southern,Matara,Single_Family,1,111.8,3,0.0,2,2,1,2,0,3,3,0.0,5.7,6.4,1.9,No,0.0,29.3,255.7,282.5
+July,Uva,Monaragala,Single_Family,1,63.6,2,0.0,3,2,2,0,1,3,3,0.0,8.4,4.0,2.6,No,0.0,27.2,268.9,236.3
+July,Uva,Monaragala,Semi_Detached,5,100.2,2,0.0,6,1,2,2,0,3,0,0.0,11.2,5.5,1.8,No,0.0,28.3,322.5,272.8
+July,Uva,Monaragala,Single_Family,3,40.0,1,0.0,5,1,3,1,0,1,0,0.0,4.3,4.1,3.5,No,0.0,30.6,233.6,314.0
+July,Northern,Mullaitivu,Single_Family,7,104.0,2,2.0,7,1,1,1,0,3,3,2.5,6.3,2.0,2.1,No,0.0,31.0,512.3,432.2
+July,Central,Nuwara Eliya,Semi_Detached,7,40.0,1,0.0,7,1,1,1,0,1,3,0.0,9.3,3.1,3.8,No,0.0,28.7,341.7,338.6
+July,Sabaragamuwa,Ratnapura,Single_Family,6,49.8,1,1.0,8,2,3,2,1,3,1,2.3,5.4,2.0,1.9,Yes,2.5,28.1,389.4,378.4
+July,Sabaragamuwa,Ratnapura,Single_Family,3,78.7,1,1.0,5,1,2,2,1,1,1,4.4,8.6,6.5,3.0,Yes,7.5,27.5,246.9,301.4
+August,North Central,Anuradhapura,Single_Family,2,64.9,3,0.0,2,2,3,1,0,0,1,0.0,7.4,3.0,1.4,No,0.0,27.0,203.6,165.7
+August,Uva,Badulla,Single_Family,3,125.2,3,2.0,3,2,3,0,1,2,1,8.6,7.6,2.3,2.8,No,0.0,,439.3,497.6
+August,Eastern,Batticaloa,Single_Family,4,171.5,4,0.0,6,1,2,0,1,2,2,0.0,8.3,2.2,1.5,No,0.0,28.1,317.5,274.1
+August,Western,Colombo,Apartment,2,94.2,2,2.0,4,1,1,1,0,3,1,7.9,9.1,2.2,2.2,No,0.0,30.7,419.1,435.8
+August,Southern,Galle,Apartment,1,80.9,2,2.0,2,1,3,1,0,3,2,7.1,7.8,2.0,1.2,No,0.0,29.2,397.3,399.4
+August,Southern,Galle,Single_Family,1,96.1,2,0.0,2,1,3,1,1,1,1,0.0,8.8,4.9,2.6,No,0.0,28.4,234.8,240.2
+August,Western,Gampaha,Single_Family,3,141.5,3,0.0,5,1,1,2,2,1,2,0.0,6.4,4.1,3.8,Yes,4.9,26.0,300.0,239.8
+August,Western,Gampaha,Single_Family,6,147.4,3,0.0,8,2,2,1,0,2,1,0.0,4.6,5.6,3.1,No,0.0,27.3,315.7,351.8
+August,Western,Gampaha,Single_Family,1,96.3,2,2.0,2,1,2,0,2,1,2,4.2,,5.3,2.8,No,0.0,30.9,393.2,383.6
+August,Northern,Jaffna,Apartment,6,98.6,2,0.0,6,1,1,1,1,2,2,0.0,4.8,4.3,2.9,No,0.0,27.9,305.8,325.0
+August,Western,Kalutara,Apartment,4,160.9,4,0.0,5,1,1,2,0,2,1,0.0,7.1,6.3,2.7,No,0.0,26.9,267.6,254.4
+August,Western,Kalutara,Single_Family,2,73.5,1,0.0,2,1,3,1,0,1,0,0.0,5.2,4.3,3.3,No,0.0,27.9,188.7,200.5
+August,Central,Kandy,Single_Family,3,102.2,3,2.0,4,1,3,1,1,3,3,6.7,5.5,2.8,1.1,No,0.0,30.3,424.0,491.0
+August,Sabaragamuwa,Kegalle,Apartment,2,161.8,3,0.0,2,2,1,2,2,1,0,0.0,11.2,5.8,1.1,No,0.0,26.5,294.3,236.4
+August,Sabaragamuwa,Kegalle,Single_Family,6,157.6,4,1.0,7,1,3,1,0,2,3,,9.8,5.2,1.6,No,0.0,25.9,422.1,415.1
+August,Northern,Kilinochchi,Single_Family,5,220.2,4,1.0,6,1,2,1,2,1,0,6.3,5.7,5.5,1.6,No,0.0,29.9,504.9,454.2
+August,North Western,Kurunegala,Apartment,3,110.5,2,1.0,4,1,3,1,0,2,2,4.7,6.2,2.9,1.5,No,0.0,30.0,327.3,391.7
+August,Northern,Mannar,Semi_Detached,2,54.5,1,0.0,2,2,2,1,2,1,2,0.0,,6.8,1.4,No,0.0,29.4,271.3,264.3
+August,Southern,Matara,Single_Family,4,176.9,4,1.0,5,1,3,1,0,1,0,4.0,6.4,3.6,1.0,No,0.0,29.0,369.5,361.2
+August,Southern,Matara,Semi_Detached,2,77.9,1,0.0,2,1,2,1,0,3,0,0.0,7.9,6.5,2.6,Yes,2.4,29.6,191.1,183.9
+August,Southern,Matara,Single_Family,6,139.2,4,1.0,7,1,1,2,1,3,0,,11.3,3.6,1.9,No,0.0,25.6,413.9,442.6
+August,Southern,Matara,Single_Family,7,151.6,4,2.0,8,2,3,1,1,3,0,5.7,10.0,4.3,2.2,No,0.0,29.6,,514.9
+August,Uva,Monaragala,Apartment,3,178.8,4,0.0,3,1,1,0,2,2,3,0.0,10.5,4.2,2.2,Yes,5.8,29.2,243.5,257.8
+August,Uva,Monaragala,Single_Family,1,106.2,2,1.0,1,1,3,2,0,1,2,7.8,10.1,3.4,2.7,No,0.0,30.8,,360.4
+August,North Central,Polonnaruwa,Semi_Detached,5,122.0,3,2.0,5,1,1,1,1,0,3,4.2,10.1,6.7,1.9,No,0.0,30.0,449.1,423.2
+August,North Western,Puttalam,Single_Family,7,151.1,4,0.0,8,1,2,0,2,0,1,0.0,10.5,2.9,3.9,No,0.0,30.8,398.6,437.0
+August,Sabaragamuwa,Ratnapura,Single_Family,2,50.9,1,1.0,3,1,1,1,0,1,1,,7.9,5.8,2.5,No,0.0,25.4,215.4,260.2
+August,Sabaragamuwa,Ratnapura,Single_Family,2,171.2,4,0.0,4,1,2,0,0,2,1,0.0,4.4,4.6,3.5,No,0.0,26.9,200.9,191.3
+August,Sabaragamuwa,Ratnapura,Single_Family,1,154.2,3,1.0,1,1,1,1,0,2,2,7.4,11.2,5.1,2.4,Yes,4.5,30.5,278.8,350.9
+August,Eastern,Trincomalee,Apartment,3,87.4,1,2.0,4,1,3,1,2,0,0,4.4,,3.3,1.7,No,0.0,25.6,367.6,365.4
+September,Eastern,Ampara,Single_Family,3,134.5,3,1.0,3,2,3,1,1,2,2,4.8,10.5,6.9,3.7,Yes,2.1,27.9,400.8,393.7
+September,Eastern,Ampara,Apartment,6,143.8,3,1.0,6,1,3,2,2,1,0,3.8,7.9,5.9,3.7,Yes,2.6,27.3,429.1,429.6
+September,Eastern,Ampara,Single_Family,6,91.9,2,0.0,8,1,1,1,0,2,0,0.0,4.1,6.4,3.6,No,0.0,28.1,238.5,274.5
+September,North Central,Anuradhapura,Semi_Detached,2,57.3,1,0.0,4,1,3,1,0,2,2,0.0,6.8,5.6,2.5,No,,30.9,232.2,256.9
+September,North Central,Anuradhapura,Single_Family,6,73.8,1,2.0,7,2,1,1,2,2,1,7.1,8.4,2.5,1.7,Yes,2.6,26.0,499.0,511.9
+September,North Central,Anuradhapura,Single_Family,6,119.7,2,1.0,8,1,3,1,0,1,2,8.9,10.8,2.3,2.7,No,0.0,29.9,468.6,492.8
+September,North Central,Anuradhapura,Single_Family,4,78.3,1,2.0,6,2,3,1,0,2,3,6.0,4.8,5.7,3.9,No,0.0,25.8,465.7,465.3
+September,Uva,Badulla,Single_Family,6,150.4,3,1.0,8,1,2,1,2,2,0,8.6,7.5,2.2,3.5,No,0.0,28.2,472.3,539.8
+September,Uva,Badulla,Single_Family,6,90.6,2,0.0,6,1,1,1,1,1,2,0.0,7.7,4.8,4.0,Yes,2.3,28.8,316.6,273.6
+September,Uva,Badulla,Single_Family,5,81.9,2,2.0,7,2,1,1,1,2,1,2.3,6.6,4.5,3.8,No,0.0,30.6,402.3,476.8
+September,Eastern,Batticaloa,Semi_Detached,3,84.9,2,2.0,3,1,3,2,0,3,1,6.5,11.7,3.4,3.4,No,0.0,28.8,408.2,415.2
+September,Eastern,Batticaloa,Single_Family,2,76.3,1,0.0,4,2,1,1,1,1,0,0.0,6.7,3.8,3.4,No,0.0,,271.1,255.1
+September,Eastern,Batticaloa,Single_Family,2,129.7,3,0.0,4,2,1,1,2,2,1,0.0,8.9,2.0,1.2,Yes,2.6,25.5,217.0,214.1
+September,Eastern,Batticaloa,Single_Family,7,124.9,2,1.0,8,1,3,1,1,3,0,2.5,4.6,4.1,3.1,Yes,4.4,26.9,379.8,392.5
+September,Southern,Galle,Single_Family,7,110.3,2,1.0,8,1,1,0,0,0,2,5.0,10.6,4.2,2.6,No,0.0,25.3,352.9,399.7
+September,Southern,Galle,Semi_Detached,4,83.9,2,,6,1,3,2,0,1,1,6.5,4.3,3.6,4.0,No,0.0,25.9,367.8,318.9
+September,Western,Gampaha,Semi_Detached,3,98.5,2,,4,1,3,0,1,2,3,0.0,7.6,4.2,3.5,No,0.0,28.2,310.8,305.4
+September,Western,Gampaha,Semi_Detached,2,97.8,2,1.0,3,2,3,0,2,2,0,3.3,6.8,2.1,2.6,Yes,7.1,28.9,275.3,253.4
+September,Western,Gampaha,Apartment,3,127.3,2,1.0,5,2,2,1,0,0,2,2.7,7.3,5.1,2.0,Yes,2.6,29.0,365.0,330.6
+September,Southern,Hambantota,Apartment,5,57.1,2,1.0,5,1,2,1,1,0,2,7.0,4.6,3.1,1.6,No,0.0,27.2,405.0,398.1
+September,Northern,Jaffna,Apartment,4,53.2,2,1.0,6,1,2,0,0,1,3,6.0,4.5,2.0,2.0,No,0.0,28.8,344.9,382.4
+September,Northern,Jaffna,Single_Family,4,151.4,3,0.0,5,2,2,1,0,2,1,0.0,7.2,4.6,2.6,No,0.0,29.2,274.6,331.4
+September,Western,Kalutara,Single_Family,5,183.5,5,0.0,6,2,2,0,1,2,0,0.0,6.3,3.1,1.4,Yes,2.1,25.5,255.4,296.7
+September,Western,Kalutara,Single_Family,2,97.1,3,2.0,3,1,3,1,2,1,2,5.3,10.2,4.9,3.8,No,0.0,26.4,401.9,363.1
+September,Western,Kalutara,Single_Family,3,156.2,4,0.0,4,1,2,1,2,2,1,0.0,5.6,3.0,1.1,No,0.0,29.2,353.6,277.9
+September,Western,Kalutara,Single_Family,6,118.7,3,1.0,6,1,2,0,0,1,1,6.7,9.2,5.6,2.9,No,0.0,30.9,442.8,406.8
+September,Western,Kalutara,Single_Family,2,120.1,3,1.0,2,1,2,1,2,3,0,2.9,8.8,5.6,1.0,Yes,7.3,26.0,240.5,242.7
+September,Central,Kandy,Single_Family,7,63.0,1,1.0,8,2,1,1,1,3,0,4.6,4.4,3.9,3.6,No,0.0,27.6,419.2,409.1
+September,Sabaragamuwa,Kegalle,Single_Family,7,55.7,1,1.0,8,1,3,0,2,1,3,3.7,6.5,2.3,1.3,No,0.0,29.8,446.9,459.0
+September,Sabaragamuwa,Kegalle,Apartment,6,123.5,3,0.0,8,2,1,1,2,1,0,,9.0,3.2,3.7,No,0.0,25.7,358.5,404.2
+September,Sabaragamuwa,Kegalle,Single_Family,7,139.1,3,0.0,7,1,3,1,1,0,0,0.0,11.5,2.1,1.2,No,0.0,25.0,341.4,297.2
+September,Sabaragamuwa,Kegalle,Single_Family,1,175.6,4,1.0,3,2,2,1,0,3,2,,9.2,6.9,1.2,No,0.0,26.8,339.7,351.2
+September,Sabaragamuwa,Kegalle,Single_Family,1,81.0,2,1.0,1,1,1,1,1,1,1,3.6,8.2,5.2,1.9,No,0.0,26.4,293.5,270.4
+September,Northern,Kilinochchi,Single_Family,4,123.6,2,0.0,6,2,3,2,2,1,3,0.0,4.7,6.3,1.6,No,0.0,28.9,388.1,366.6
+September,Northern,Mannar,Apartment,1,134.6,3,0.0,3,2,1,2,2,0,1,0.0,9.4,5.3,3.3,No,0.0,,252.4,301.0
+September,Central,Matale,Single_Family,2,87.1,1,1.0,2,2,1,0,1,2,3,8.3,10.3,4.8,3.0,Yes,6.8,29.2,322.1,332.3
+September,Central,Matale,Semi_Detached,4,158.6,3,0.0,6,1,2,1,2,0,0,0.0,6.8,5.9,2.0,No,0.0,26.4,284.8,261.3
+September,Southern,Matara,Apartment,3,41.7,1,0.0,3,1,3,1,0,2,3,0.0,5.7,4.6,1.9,Yes,5.3,28.2,148.7,236.4
+September,Northern,Mullaitivu,Single_Family,3,139.5,4,0.0,3,1,1,0,1,2,3,0.0,9.0,4.1,1.1,No,0.0,25.2,262.2,262.0
+September,Central,Nuwara Eliya,Apartment,4,101.9,3,1.0,5,1,1,1,1,3,2,6.1,5.3,3.2,2.0,Yes,3.1,27.6,318.6,361.9
+September,North Central,Polonnaruwa,Single_Family,5,71.6,2,0.0,5,1,2,1,0,1,0,0.0,11.4,6.2,1.9,No,0.0,25.3,223.6,231.8
+September,North Central,Polonnaruwa,Single_Family,3,108.8,3,1.0,5,1,1,1,2,1,2,5.5,8.5,6.5,1.0,No,0.0,29.7,387.0,396.5
+September,North Central,Polonnaruwa,Single_Family,3,97.5,2,1.0,4,1,1,2,0,2,1,3.4,11.5,2.4,2.5,Yes,5.2,29.7,239.3,242.4
+September,North Western,Puttalam,Apartment,7,88.0,2,1.0,8,2,1,1,1,2,1,5.4,11.8,5.4,1.7,No,0.0,28.3,453.5,458.9
+September,North Western,Puttalam,Single_Family,4,,1,1.0,6,1,1,1,0,0,0,5.1,6.6,3.8,2.5,No,0.0,27.6,334.0,348.7
+September,North Western,Puttalam,Single_Family,4,136.1,3,2.0,6,2,1,2,1,2,0,8.2,11.1,4.5,1.3,Yes,4.7,28.4,466.0,426.8
+September,North Western,Puttalam,Single_Family,5,89.0,2,2.0,6,2,3,1,0,0,2,2.8,9.2,2.6,2.7,No,0.0,30.7,472.4,495.3
+September,North Western,Puttalam,Apartment,3,40.9,1,2.0,4,1,3,0,1,1,3,7.5,6.0,4.2,2.0,No,0.0,28.1,428.2,432.4
+September,Sabaragamuwa,Ratnapura,Single_Family,4,92.9,2,1.0,4,1,1,1,2,2,3,4.4,4.1,5.1,1.9,No,0.0,27.2,368.2,402.8
+September,Sabaragamuwa,Ratnapura,Single_Family,2,210.2,5,0.0,4,1,1,0,1,1,1,0.0,8.5,6.7,4.0,No,0.0,25.2,229.3,237.9
+September,Eastern,Trincomalee,Single_Family,7,141.0,3,0.0,7,1,2,0,0,3,3,0.0,5.8,2.5,1.2,No,0.0,,336.8,367.4
+October,Eastern,Ampara,Single_Family,6,170.1,3,1.0,7,1,2,2,1,3,0,8.7,6.4,5.4,4.0,No,0.0,26.7,526.8,508.1
+October,Eastern,Ampara,Single_Family,5,142.8,3,2.0,6,2,3,1,2,2,1,7.0,11.0,4.2,1.1,No,0.0,26.9,503.8,541.8
+October,Eastern,Ampara,Semi_Detached,7,,1,2.0,8,1,2,1,2,1,2,3.2,11.2,5.4,2.9,No,0.0,30.5,482.8,521.5
+October,North Central,Anuradhapura,Single_Family,1,40.0,1,1.0,1,2,1,1,2,1,0,5.9,4.9,5.3,3.1,No,0.0,,,326.0
+October,Uva,Badulla,Single_Family,5,194.1,5,2.0,5,2,2,1,1,2,2,4.5,8.0,6.9,3.8,Yes,6.9,26.0,410.1,418.1
+October,Uva,Badulla,Apartment,7,101.2,2,0.0,8,1,2,1,1,2,2,0.0,5.7,5.6,2.3,No,0.0,31.0,379.9,383.6
+October,Eastern,Batticaloa,Single_Family,2,67.4,2,0.0,4,1,3,1,1,3,3,0.0,10.6,2.8,4.0,No,0.0,29.9,275.7,306.5
+October,Western,Colombo,Apartment,1,181.8,4,1.0,3,1,1,1,0,1,1,6.2,5.8,3.1,1.1,Yes,6.1,26.5,226.4,210.9
+October,Western,Colombo,Semi_Detached,7,114.5,2,0.0,8,1,2,1,0,2,2,0.0,8.7,3.1,2.9,Yes,3.7,29.2,260.8,348.9
+October,Western,Colombo,Semi_Detached,5,119.9,3,2.0,6,1,3,2,1,1,3,,10.0,5.0,3.4,No,0.0,30.8,535.0,559.8
+October,Western,Colombo,Single_Family,4,159.8,4,1.0,6,1,3,2,1,3,0,3.5,8.4,2.3,2.2,No,0.0,27.0,433.9,386.8
+October,Western,Gampaha,Single_Family,3,40.0,1,2.0,4,1,1,1,2,2,3,5.9,5.0,3.0,3.6,Yes,6.6,30.9,381.2,376.4
+October,Southern,Hambantota,Apartment,1,147.5,3,0.0,3,2,2,1,0,2,1,0.0,9.4,3.8,1.5,No,0.0,30.6,264.9,276.1
+October,Northern,Jaffna,Single_Family,1,110.1,3,1.0,1,1,3,0,2,1,2,8.6,4.1,2.9,3.6,No,0.0,28.4,398.0,368.6
+October,Western,Kalutara,Single_Family,3,55.3,1,0.0,3,1,3,0,1,0,3,0.0,8.0,5.7,1.9,No,0.0,29.5,280.8,264.7
+October,Central,Kandy,Apartment,1,59.2,1,0.0,3,2,1,1,0,1,1,0.0,4.6,6.2,3.8,No,0.0,27.9,187.6,233.6
+October,Central,Kandy,Apartment,1,148.2,3,0.0,2,1,3,1,0,2,2,0.0,5.6,4.5,2.1,No,0.0,27.3,209.3,212.4
+October,North Western,Kurunegala,Apartment,1,100.0,3,0.0,3,1,2,0,0,2,2,0.0,10.7,4.5,2.3,No,0.0,27.1,240.2,246.3
+October,North Western,Kurunegala,Single_Family,5,108.7,3,0.0,5,1,3,1,0,3,1,0.0,8.6,3.0,2.5,No,,29.5,337.5,258.1
+October,North Western,Kurunegala,Apartment,1,91.3,1,1.0,2,2,3,1,2,1,3,3.7,7.2,3.2,3.1,No,0.0,30.4,374.8,371.0
+October,North Western,Kurunegala,Apartment,2,70.5,2,0.0,2,1,1,1,2,2,0,0.0,8.8,4.2,1.6,Yes,6.3,27.8,148.7,173.6
+October,Uva,Monaragala,Semi_Detached,2,148.1,3,0.0,4,1,1,2,0,0,1,0.0,4.4,2.5,3.7,No,,30.4,,245.9
+October,Uva,Monaragala,Single_Family,2,77.8,1,1.0,3,2,3,2,2,3,1,7.8,4.6,4.3,2.0,No,0.0,28.1,372.0,451.2
+October,Northern,Mullaitivu,Single_Family,4,125.4,3,0.0,4,1,3,1,0,2,3,0.0,8.7,6.8,3.3,No,0.0,29.5,326.8,319.7
+October,North Central,Polonnaruwa,Single_Family,6,223.6,4,1.0,8,1,2,1,1,3,0,2.8,5.6,3.5,1.9,Yes,3.0,25.2,353.5,383.3
+October,North Central,Polonnaruwa,Apartment,5,61.4,1,1.0,5,1,1,1,1,1,0,8.6,9.4,2.9,2.7,No,0.0,25.5,400.3,436.2
+October,North Western,Puttalam,Semi_Detached,4,92.5,1,1.0,6,1,2,0,2,1,2,2.3,4.7,3.7,3.4,No,0.0,28.9,384.0,383.3
+October,North Western,Puttalam,Single_Family,5,181.0,5,1.0,7,1,1,1,2,1,1,8.7,4.6,6.9,1.4,No,0.0,25.7,439.1,496.6
+October,North Western,Puttalam,Apartment,5,40.0,1,0.0,5,1,3,2,1,0,3,0.0,6.2,4.8,2.2,No,0.0,29.5,277.6,307.1
+October,Sabaragamuwa,Ratnapura,Single_Family,1,98.0,3,1.0,1,2,2,1,0,1,2,8.4,9.7,2.7,2.1,No,0.0,29.8,377.8,392.3
+October,Sabaragamuwa,Ratnapura,Single_Family,3,184.0,5,1.0,3,1,2,1,0,0,0,7.8,8.8,3.2,3.3,No,0.0,30.2,353.0,372.1
+October,Sabaragamuwa,Ratnapura,Single_Family,5,140.8,3,2.0,7,1,3,1,0,2,1,3.0,9.0,2.2,2.5,No,0.0,26.7,476.6,441.2
+October,Eastern,Trincomalee,Apartment,1,40.0,1,0.0,1,1,1,0,1,2,2,0.0,5.7,7.0,2.2,No,0.0,25.0,202.2,213.1
+October,Northern,Vavuniya,Single_Family,1,128.9,3,0.0,3,1,3,1,1,2,3,0.0,4.3,5.8,3.0,No,0.0,29.0,289.6,280.3
+November,Eastern,Ampara,Single_Family,2,131.9,3,1.0,3,1,1,2,0,2,0,5.4,9.2,4.9,3.5,Yes,5.5,30.6,313.7,298.3
+November,North Central,Anuradhapura,Single_Family,6,71.1,2,0.0,7,1,3,0,2,1,1,0.0,8.4,4.8,1.5,No,0.0,,340.5,322.7
+November,Uva,Badulla,Semi_Detached,2,181.0,4,0.0,3,2,1,1,0,3,3,0.0,9.9,5.9,1.2,No,0.0,26.8,292.1,312.9
+November,Uva,Badulla,Apartment,3,87.0,1,2.0,4,1,3,1,1,1,2,6.0,4.1,4.8,2.5,No,0.0,29.7,434.9,362.6
+November,Uva,Badulla,Single_Family,2,103.8,3,0.0,4,2,1,0,2,3,1,0.0,5.1,4.1,2.1,No,0.0,26.7,249.6,269.0
+November,Uva,Badulla,Single_Family,6,62.7,1,0.0,6,1,1,1,1,2,0,0.0,7.6,4.4,1.4,No,0.0,30.4,306.1,268.6
+November,Eastern,Batticaloa,Single_Family,2,,4,0.0,3,1,1,0,2,0,1,0.0,6.7,5.0,3.9,No,0.0,28.1,258.8,272.5
+November,Eastern,Batticaloa,Semi_Detached,7,126.0,4,0.0,7,1,1,0,0,0,2,0.0,5.2,2.9,2.0,No,0.0,30.4,318.6,347.8
+November,Western,Colombo,Single_Family,7,45.6,1,1.0,8,2,3,1,2,3,0,4.9,5.5,6.1,2.8,No,0.0,29.4,547.4,533.7
+November,Western,Colombo,Apartment,5,100.4,2,0.0,5,1,3,1,0,3,0,0.0,10.7,4.2,1.4,Yes,4.9,29.0,255.8,231.7
+November,Southern,Hambantota,Single_Family,5,136.9,3,0.0,5,1,1,1,1,1,1,0.0,11.5,4.0,3.7,No,0.0,27.2,303.3,321.6
+November,Western,Kalutara,Single_Family,4,105.2,2,0.0,5,1,3,1,1,1,0,0.0,7.4,3.3,2.9,No,0.0,25.2,234.9,230.9
+November,Central,Kandy,Single_Family,2,105.8,3,0.0,2,2,1,2,0,1,1,0.0,11.0,5.5,3.7,Yes,4.4,27.0,193.7,170.5
+November,Sabaragamuwa,Kegalle,Single_Family,1,116.5,3,0.0,3,2,1,0,2,3,0,0.0,7.6,3.3,3.2,No,0.0,29.3,273.5,244.9
+November,Sabaragamuwa,Kegalle,Single_Family,3,75.5,3,1.0,4,2,1,2,1,1,2,6.3,9.6,6.3,2.5,No,0.0,,382.4,395.2
+November,Sabaragamuwa,Kegalle,Single_Family,5,100.4,2,0.0,7,1,1,1,2,1,1,0.0,11.4,2.6,3.7,No,0.0,29.7,350.2,363.7
+November,Northern,Kilinochchi,Apartment,5,64.7,2,0.0,5,1,2,1,0,1,2,0.0,9.7,2.6,1.8,No,0.0,30.2,,294.7
+November,Northern,Kilinochchi,Single_Family,3,124.8,4,1.0,3,1,3,1,2,2,3,4.8,5.2,3.8,2.4,No,0.0,30.1,428.9,407.8
+November,North Western,Kurunegala,Single_Family,2,169.7,3,1.0,4,1,3,1,2,1,0,,10.3,4.3,2.6,No,0.0,27.1,396.3,448.8
+November,North Western,Kurunegala,Single_Family,2,133.8,3,0.0,4,2,3,0,1,3,2,0.0,,3.0,1.0,Yes,6.3,29.1,152.8,204.8
+November,Central,Matale,Single_Family,6,93.6,2,2.0,6,2,2,1,2,3,1,5.8,5.8,2.0,1.2,Yes,2.4,30.2,464.7,430.4
+November,Uva,Monaragala,Single_Family,3,112.6,3,0.0,4,1,2,1,0,2,3,0.0,4.7,3.5,2.0,No,0.0,28.5,287.6,247.7
+November,Uva,Monaragala,Semi_Detached,5,165.8,4,1.0,5,2,2,1,1,3,3,8.3,9.1,4.1,4.0,No,0.0,29.1,498.8,522.5
+November,North Central,Polonnaruwa,Single_Family,7,95.3,1,1.0,8,1,2,1,2,3,1,4.5,4.9,6.6,1.9,Yes,6.3,27.6,363.3,391.9
+November,Sabaragamuwa,Ratnapura,Apartment,2,92.2,3,,2,1,2,1,1,2,3,0.0,9.4,5.7,3.6,No,0.0,27.5,278.9,305.2
+November,Sabaragamuwa,Ratnapura,Semi_Detached,6,176.8,5,0.0,8,1,3,2,0,0,1,0.0,11.9,6.6,2.4,No,0.0,,383.9,351.0
+December,Eastern,Ampara,Single_Family,3,92.3,2,2.0,4,1,2,1,2,2,1,5.0,7.9,3.6,1.2,No,0.0,,367.1,411.4
+December,Eastern,Ampara,Single_Family,3,63.6,1,0.0,3,2,1,2,2,2,3,0.0,6.3,5.1,2.6,No,0.0,30.1,339.3,322.1
+December,Eastern,Ampara,Single_Family,5,85.7,2,1.0,7,1,3,2,1,1,0,6.8,5.1,6.2,3.7,Yes,4.9,26.4,383.8,370.9
+December,North Central,Anuradhapura,Semi_Detached,6,142.5,4,1.0,6,1,1,2,0,2,0,6.9,,3.2,1.7,No,0.0,30.7,436.0,449.4
+December,North Central,Anuradhapura,Single_Family,2,148.4,4,0.0,3,2,1,1,1,1,1,0.0,6.0,6.3,1.8,Yes,2.9,29.2,242.8,241.7
+December,North Central,Anuradhapura,Semi_Detached,1,173.6,4,2.0,2,1,1,1,1,1,3,8.3,9.3,3.9,2.8,No,0.0,25.6,443.5,471.7
+December,Eastern,Batticaloa,Single_Family,7,127.6,3,0.0,8,1,1,0,0,1,1,0.0,4.0,2.9,1.8,Yes,7.0,26.2,189.6,249.2
+December,Eastern,Batticaloa,Single_Family,1,122.4,3,0.0,3,1,1,0,1,1,3,,8.6,3.4,1.6,Yes,7.7,29.2,172.2,174.8
+December,Western,Colombo,Single_Family,4,59.4,2,1.0,6,1,2,1,0,0,1,2.3,6.1,3.6,3.3,No,0.0,27.0,334.8,294.9
+December,Western,Colombo,Semi_Detached,4,166.6,4,2.0,4,1,2,1,1,0,0,3.9,6.8,5.2,3.4,No,0.0,30.1,455.3,442.8
+December,Western,Gampaha,Single_Family,5,132.0,3,1.0,7,2,1,1,0,1,1,4.9,5.8,6.1,3.9,No,0.0,26.4,406.0,435.6
+December,Western,Gampaha,Single_Family,1,111.7,3,0.0,3,1,1,0,0,1,3,0.0,8.9,2.2,1.3,Yes,6.6,28.5,109.4,116.6
+December,Northern,Jaffna,Single_Family,1,53.6,1,0.0,3,1,1,1,2,2,3,0.0,7.1,2.5,3.1,No,0.0,30.4,296.8,292.2
+December,Western,Kalutara,Single_Family,7,106.6,2,0.0,7,1,1,1,1,1,1,0.0,6.6,2.2,1.5,No,0.0,30.1,378.9,306.3
+December,Central,Kandy,Apartment,4,197.4,4,1.0,4,1,3,1,1,0,0,2.2,5.6,6.8,1.5,Yes,2.4,28.3,323.8,377.8
+December,Sabaragamuwa,Kegalle,Single_Family,4,60.1,1,1.0,5,1,3,1,1,2,2,3.4,6.1,3.6,3.0,No,0.0,27.6,383.4,428.0
+December,Northern,Kilinochchi,Single_Family,1,153.3,3,2.0,2,1,3,1,0,1,0,7.8,4.0,4.2,1.1,No,0.0,26.6,352.8,336.2
+December,North Western,Kurunegala,Apartment,7,101.5,3,1.0,8,1,3,2,0,2,3,4.3,11.8,4.8,2.0,Yes,,28.6,413.5,416.7
+December,Southern,Matara,Semi_Detached,4,142.8,3,1.0,5,1,3,1,0,1,1,2.9,,2.9,1.4,No,0.0,28.8,318.7,322.7
+December,Uva,Monaragala,Single_Family,6,131.1,4,0.0,8,2,1,2,0,3,3,0.0,10.1,2.8,1.5,No,0.0,26.5,350.1,361.4
+December,Northern,Mullaitivu,Single_Family,1,101.2,3,2.0,2,1,2,1,0,2,1,3.2,10.8,2.7,3.6,Yes,7.5,29.7,207.6,229.0
+December,North Central,Polonnaruwa,Single_Family,6,74.1,2,0.0,7,1,3,2,2,2,3,0.0,9.1,3.8,3.1,No,0.0,25.1,356.1,392.5
+December,North Central,Polonnaruwa,Apartment,7,183.5,4,0.0,8,1,1,1,0,2,0,,4.2,6.2,2.0,Yes,6.8,25.3,233.2,226.1
+December,North Western,Puttalam,Single_Family,6,114.3,3,2.0,7,1,3,2,0,1,2,6.4,5.7,2.1,3.7,No,0.0,28.8,492.6,437.8
+December,Sabaragamuwa,Ratnapura,Single_Family,2,78.6,1,2.0,3,2,1,2,1,3,1,,5.7,6.4,2.8,No,0.0,25.4,386.1,398.4
+December,Eastern,Trincomalee,Single_Family,4,40.0,1,1.0,4,2,1,2,1,1,2,2.6,6.9,5.5,2.1,No,0.0,27.1,307.9,337.0
+December,Eastern,Trincomalee,Single_Family,5,104.3,2,0.0,7,1,2,1,1,1,2,0.0,10.1,5.2,3.3,No,0.0,28.6,355.4,380.7
+January,Eastern,Ampara,Single_Family,2,178.9,4,0.0,2,1,1,1,1,1,3,0.0,11.1,3.1,3.3,No,0.0,25.9,279.8,286.8
+January,North Central,Anuradhapura,Single_Family,4,241.6,6,0.0,4,1,2,1,2,1,0,0.0,6.6,5.3,1.8,Yes,8.0,28.0,235.4,238.5
+January,North Central,Anuradhapura,Single_Family,1,134.5,3,0.0,2,1,1,2,2,0,1,0.0,9.4,5.0,2.0,Yes,5.7,28.5,181.8,166.2
+January,Uva,Badulla,Single_Family,3,177.0,4,0.0,5,2,3,1,1,3,1,0.0,6.2,3.1,2.3,Yes,3.9,30.1,261.1,256.0
+January,Uva,Badulla,Single_Family,3,96.8,2,0.0,5,1,3,2,1,1,3,0.0,4.1,6.5,2.4,No,0.0,28.9,307.7,325.2
+January,Eastern,Batticaloa,Single_Family,5,107.5,1,0.0,5,1,3,1,0,3,0,0.0,9.9,4.4,3.7,No,0.0,26.3,303.5,302.7
+January,Western,Colombo,Semi_Detached,3,77.5,1,1.0,4,2,1,1,0,1,0,4.5,5.4,4.8,3.7,Yes,7.9,27.5,267.5,236.0
+January,Western,Colombo,Apartment,2,95.9,3,0.0,4,2,2,0,1,2,0,0.0,10.4,5.9,1.9,Yes,6.8,30.8,198.0,205.8
+January,Western,Colombo,Single_Family,7,40.0,1,0.0,7,1,1,1,0,2,3,0.0,4.9,4.1,2.4,No,0.0,25.6,347.8,324.8
+January,Western,Colombo,Apartment,2,98.9,3,2.0,4,2,1,0,1,1,3,5.6,9.4,4.3,2.2,No,0.0,29.1,443.0,381.2
+January,Southern,Galle,Single_Family,6,143.2,4,0.0,7,1,2,2,0,2,3,0.0,10.0,6.1,3.4,No,0.0,30.4,381.6,412.6
+January,Western,Gampaha,Single_Family,4,66.3,2,0.0,5,1,1,1,1,0,3,0.0,8.6,3.3,1.5,No,0.0,30.0,264.2,326.6
+January,Southern,Hambantota,Apartment,1,82.2,1,2.0,1,2,1,1,1,2,0,9.0,9.8,2.4,3.7,No,0.0,27.5,373.7,369.3
+January,Western,Kalutara,Single_Family,2,126.3,4,1.0,3,1,3,0,0,2,1,7.8,9.1,5.8,2.6,No,0.0,30.6,352.5,392.6
+January,Sabaragamuwa,Kegalle,Apartment,1,155.4,3,,3,2,3,1,1,2,0,6.4,9.1,4.7,2.5,Yes,3.8,29.7,344.6,338.5
+January,Northern,Mannar,Semi_Detached,6,40.0,1,1.0,6,1,1,2,1,1,3,6.4,11.6,2.9,2.7,No,0.0,30.6,527.4,447.8
+January,Northern,Mannar,Single_Family,5,88.5,2,0.0,5,2,1,1,1,3,3,0.0,9.3,5.4,3.8,No,0.0,29.5,390.1,385.8
+January,Central,Matale,Single_Family,3,45.9,1,2.0,5,1,1,2,1,2,2,6.3,11.0,6.4,2.9,No,0.0,30.0,426.1,504.1
+January,Southern,Matara,Apartment,4,186.9,5,0.0,6,1,1,1,0,2,0,0.0,11.0,4.1,3.9,No,0.0,27.9,227.5,326.2
+January,Southern,Matara,Single_Family,1,140.4,3,0.0,1,1,1,2,1,1,1,0.0,9.6,6.2,2.6,Yes,4.9,25.5,204.4,168.9
+January,Southern,Matara,Single_Family,4,48.5,1,0.0,6,1,2,0,0,1,0,0.0,5.6,3.7,3.8,No,0.0,30.6,238.1,238.5
+January,Uva,Monaragala,Apartment,6,130.9,2,0.0,8,1,3,2,1,3,3,,4.8,6.5,1.2,No,0.0,25.2,419.4,335.8
+January,Uva,Monaragala,Single_Family,6,104.6,2,0.0,7,1,2,1,2,0,1,0.0,9.8,4.6,2.8,Yes,6.4,28.2,282.0,277.4
+January,North Central,Polonnaruwa,Apartment,3,129.9,2,1.0,4,2,1,2,2,1,3,4.2,6.4,2.3,3.5,No,0.0,28.1,,388.5
+January,North Central,Polonnaruwa,Single_Family,4,52.7,1,1.0,6,1,3,2,1,1,1,6.5,7.9,3.5,1.2,No,0.0,25.2,357.3,366.7
+January,North Western,Puttalam,Apartment,7,123.1,2,2.0,7,1,1,1,0,0,2,8.0,11.3,7.0,2.1,Yes,5.3,29.0,436.0,456.8
+January,North Western,Puttalam,Single_Family,4,131.5,3,0.0,6,1,3,0,2,3,2,0.0,9.9,6.9,1.1,No,,26.7,328.4,385.4
+January,Sabaragamuwa,Ratnapura,Semi_Detached,2,142.5,3,0.0,3,2,3,2,0,2,3,0.0,10.3,5.1,2.2,No,0.0,29.6,333.8,328.8
+January,Northern,Vavuniya,Apartment,7,117.6,3,0.0,8,2,3,2,1,0,3,0.0,6.2,2.9,2.2,No,0.0,28.6,450.9,412.7
+January,Northern,Vavuniya,Apartment,1,122.9,3,1.0,3,1,2,1,2,2,3,6.3,8.7,6.2,2.3,Yes,3.1,29.3,352.3,352.4
+February,Eastern,Ampara,Apartment,7,110.7,2,1.0,7,1,2,2,0,0,3,6.2,6.0,6.2,3.6,No,0.0,30.9,470.4,490.8
+February,North Central,Anuradhapura,Single_Family,5,163.8,4,0.0,7,1,1,1,2,2,0,0.0,10.0,5.4,2.9,No,0.0,29.3,317.7,353.0
+February,Uva,Badulla,Single_Family,5,123.4,3,1.0,7,1,1,1,2,1,3,5.5,8.3,3.5,2.2,No,0.0,28.9,438.4,500.5
+February,Uva,Badulla,Single_Family,6,81.4,2,1.0,8,2,3,0,1,2,2,8.3,7.0,6.8,1.6,No,0.0,26.3,491.8,440.5
+February,Eastern,Batticaloa,Single_Family,5,40.0,1,0.0,6,1,3,2,2,1,3,0.0,9.6,4.8,3.8,Yes,5.0,29.5,354.5,303.4
+February,Western,Colombo,Apartment,7,101.9,2,1.0,8,1,3,1,1,1,0,6.8,5.0,4.8,2.4,Yes,7.2,30.2,371.2,386.9
+February,Southern,Galle,Single_Family,6,108.3,2,0.0,8,1,3,0,1,0,0,0.0,11.3,6.2,2.4,No,0.0,28.4,286.3,284.1
+February,Southern,Hambantota,Semi_Detached,4,59.3,1,1.0,5,2,3,1,1,0,2,3.6,6.5,2.0,2.4,No,0.0,30.1,357.0,372.0
+February,Northern,Jaffna,Single_Family,4,107.1,2,2.0,6,1,2,1,1,2,3,2.7,5.2,6.2,2.1,Yes,6.9,27.8,339.7,425.8
+February,Western,Kalutara,Single_Family,5,172.5,4,1.0,7,2,3,2,2,2,0,7.1,11.7,6.3,1.7,No,0.0,30.0,523.7,558.4
+February,Central,Kandy,Single_Family,6,127.1,3,0.0,7,1,1,0,1,0,3,0.0,6.9,5.2,1.5,Yes,3.8,27.7,279.8,300.9
+February,Central,Kandy,Single_Family,2,137.3,4,2.0,2,1,2,0,2,3,3,,9.9,4.7,1.6,No,0.0,28.9,421.2,444.8
+February,Uva,Monaragala,Single_Family,5,49.8,1,1.0,6,2,2,1,0,1,0,2.6,11.0,6.0,1.7,No,0.0,28.9,377.9,377.8
+February,Uva,Monaragala,Apartment,1,143.4,2,1.0,1,1,2,1,0,1,2,2.9,5.5,6.8,3.3,Yes,6.1,30.1,248.2,214.8
+February,Uva,Monaragala,Single_Family,1,111.3,2,2.0,2,1,1,1,1,1,0,4.8,9.3,6.2,2.0,No,0.0,30.4,377.0,390.5
+February,Uva,Monaragala,Apartment,6,132.8,3,1.0,6,1,3,1,2,3,3,4.6,8.3,3.0,1.7,No,0.0,29.2,517.4,485.2
+February,North Central,Polonnaruwa,Apartment,4,77.1,1,0.0,4,2,3,0,0,2,0,0.0,11.5,3.7,3.5,No,0.0,28.1,277.6,276.4
+February,North Western,Puttalam,Single_Family,1,47.2,1,1.0,2,1,2,1,1,1,3,5.9,10.9,2.8,2.2,No,0.0,30.8,364.3,335.9
+February,North Western,Puttalam,Single_Family,1,192.0,4,0.0,1,1,2,1,1,1,2,0.0,6.5,2.4,3.8,No,0.0,28.0,234.0,243.1
+February,North Western,Puttalam,Semi_Detached,6,57.5,1,2.0,8,2,1,1,1,2,1,7.1,7.0,5.4,3.9,No,0.0,30.4,530.8,464.9
+February,Sabaragamuwa,Ratnapura,Single_Family,5,103.8,3,0.0,5,1,1,1,2,1,0,0.0,7.5,5.8,3.4,No,0.0,26.1,273.1,275.8
+February,Sabaragamuwa,Ratnapura,Single_Family,4,57.6,1,1.0,4,1,1,1,1,2,1,,5.9,4.0,2.5,Yes,5.2,28.4,,262.7
+February,Eastern,Trincomalee,Single_Family,5,59.9,1,0.0,5,1,2,1,0,1,2,0.0,5.5,6.1,4.0,No,0.0,25.9,239.3,258.3
+February,Eastern,Trincomalee,Single_Family,6,40.0,1,0.0,7,2,1,0,1,1,1,0.0,10.1,4.1,3.7,No,0.0,26.9,287.6,265.2
+February,Eastern,Trincomalee,Apartment,1,136.4,3,1.0,2,1,2,1,1,0,1,5.0,4.8,6.2,1.7,No,0.0,26.8,271.1,343.5
+February,Eastern,Trincomalee,Single_Family,7,179.0,3,1.0,8,1,1,1,1,0,3,3.4,10.1,6.8,3.1,Yes,4.6,28.5,400.2,377.3
+February,Northern,Vavuniya,Single_Family,6,65.7,2,2.0,8,1,3,1,1,3,3,6.9,9.5,4.4,2.2,Yes,6.2,26.0,420.4,419.6
+March,Eastern,Ampara,Single_Family,5,,3,2.0,7,1,2,1,2,1,0,5.7,8.9,2.3,2.4,No,0.0,25.9,490.7,508.8
+March,North Central,Anuradhapura,Single_Family,1,82.6,3,1.0,3,1,1,1,1,1,3,6.1,11.8,3.7,1.1,No,,28.2,307.7,377.4
+March,North Central,Anuradhapura,Apartment,4,101.9,1,0.0,4,1,2,1,0,3,2,0.0,8.1,3.9,3.7,No,0.0,30.2,299.9,306.6
+March,Uva,Badulla,Single_Family,7,146.6,3,0.0,7,1,3,1,1,3,3,0.0,6.1,2.9,1.9,No,0.0,26.4,399.6,409.5
+March,Uva,Badulla,Single_Family,2,116.0,3,1.0,4,2,3,0,2,1,3,5.7,7.7,5.4,1.3,No,0.0,29.4,388.0,376.8
+March,Uva,Badulla,Apartment,6,104.6,3,2.0,8,1,1,2,1,3,2,7.3,8.7,6.3,2.0,No,0.0,26.9,558.2,496.5
+March,Western,Colombo,Single_Family,6,40.0,1,0.0,6,1,1,1,0,2,1,0.0,7.4,5.9,3.6,No,0.0,28.0,283.8,271.5
+March,Southern,Galle,Single_Family,1,233.8,5,0.0,2,2,3,1,2,3,0,0.0,5.7,6.8,1.8,No,0.0,30.2,330.6,345.9
+March,Southern,Galle,Single_Family,4,102.7,2,2.0,6,1,2,1,1,0,0,7.6,9.2,5.4,2.6,Yes,4.3,30.5,386.0,426.8
+March,Southern,Galle,Single_Family,1,173.8,4,0.0,3,1,3,1,1,2,3,0.0,5.2,6.7,1.4,Yes,6.3,25.6,182.4,176.7
+March,Northern,Jaffna,Single_Family,3,94.0,2,1.0,3,2,1,2,0,1,3,8.5,7.8,3.7,2.1,No,0.0,26.1,361.3,381.3
+March,Western,Kalutara,Single_Family,7,116.9,3,0.0,7,2,3,1,1,2,1,0.0,5.7,2.8,3.2,No,0.0,27.8,387.6,426.2
+March,Sabaragamuwa,Kegalle,Single_Family,1,134.0,3,0.0,2,1,1,2,2,2,2,0.0,8.7,4.8,3.4,Yes,2.5,26.1,229.3,210.2
+March,Central,Matale,Apartment,5,93.3,1,0.0,6,1,3,1,0,1,1,0.0,6.5,2.4,2.6,No,0.0,28.4,281.6,261.4
+March,Central,Matale,Apartment,7,138.6,3,2.0,8,2,2,1,1,2,0,2.5,7.2,6.3,1.6,No,0.0,25.1,456.7,461.9
+March,Southern,Matara,Semi_Detached,6,137.4,3,0.0,6,1,1,1,0,3,0,0.0,6.9,4.5,2.0,No,0.0,25.9,300.4,323.8
+March,Northern,Mullaitivu,Apartment,4,148.2,5,0.0,5,1,3,1,1,2,2,,6.5,4.8,1.3,No,0.0,29.7,297.5,332.8
+March,North Western,Puttalam,Apartment,3,155.7,3,2.0,5,1,1,2,1,3,0,5.9,9.9,2.9,1.7,Yes,3.2,25.6,362.5,390.2
+March,North Western,Puttalam,Single_Family,5,171.4,4,0.0,7,2,2,1,1,2,0,0.0,7.8,4.1,3.6,No,0.0,26.6,292.5,358.5
+March,North Western,Puttalam,Semi_Detached,1,40.0,2,0.0,2,2,2,1,0,2,2,0.0,10.8,6.8,2.1,No,0.0,30.0,243.7,211.6
+March,North Western,Puttalam,Single_Family,2,138.7,3,0.0,3,1,2,1,1,0,3,0.0,11.3,4.4,2.6,No,0.0,28.9,279.5,295.6
+March,Sabaragamuwa,Ratnapura,Single_Family,3,163.9,4,1.0,5,2,2,1,0,3,2,2.1,7.9,3.4,3.6,No,0.0,27.4,356.7,353.4
+March,Sabaragamuwa,Ratnapura,Apartment,3,83.9,1,0.0,4,2,1,1,2,3,2,0.0,10.6,2.9,1.2,No,0.0,28.0,290.0,289.8
+April,Eastern,Ampara,Apartment,4,147.6,3,1.0,6,1,1,1,1,2,1,8.3,10.2,3.7,2.4,Yes,3.9,26.2,374.4,404.7
+April,North Central,Anuradhapura,Single_Family,5,170.2,4,0.0,6,1,2,1,0,2,1,0.0,9.0,5.2,1.6,No,0.0,28.3,321.3,315.9
+April,Uva,Badulla,Apartment,4,,2,1.0,6,2,3,2,1,1,1,5.8,,4.7,1.3,No,0.0,30.0,457.6,462.8
+April,Southern,Galle,Apartment,1,108.7,3,0.0,1,2,1,1,0,2,1,0.0,4.9,2.4,3.8,No,0.0,26.2,193.8,220.4
+April,Southern,Galle,Single_Family,3,64.4,2,1.0,4,1,1,1,0,2,2,3.3,4.6,2.6,2.8,No,0.0,25.0,261.2,303.5
+April,Southern,Galle,Single_Family,6,96.4,3,0.0,7,1,3,1,2,0,2,0.0,10.7,6.0,3.3,No,0.0,30.5,375.9,390.8
+April,Western,Gampaha,Semi_Detached,1,144.1,3,1.0,1,1,1,1,2,2,2,5.5,11.8,2.9,3.4,No,0.0,30.4,373.5,407.6
+April,Western,Gampaha,Single_Family,5,133.7,2,0.0,7,1,2,1,1,1,3,0.0,10.2,4.1,1.4,Yes,,28.4,247.1,286.2
+April,Western,Gampaha,Apartment,1,99.4,2,2.0,2,1,3,1,1,0,2,4.1,10.4,2.4,4.0,No,0.0,26.8,385.0,385.1
+April,Southern,Hambantota,Single_Family,5,172.7,4,0.0,7,1,2,0,2,1,3,0.0,7.6,2.9,2.9,No,0.0,28.4,358.4,353.0
+April,Western,Kalutara,Single_Family,2,83.0,2,0.0,4,1,1,1,0,0,0,0.0,5.7,2.5,3.7,Yes,4.8,26.5,149.9,100.7
+April,North Western,Kurunegala,Single_Family,5,70.8,1,2.0,6,2,3,1,1,2,2,7.6,8.3,2.1,1.3,No,0.0,29.2,469.5,576.7
+April,North Western,Kurunegala,Apartment,7,77.8,1,0.0,7,1,3,1,0,1,0,0.0,9.5,2.3,1.0,No,0.0,28.7,315.9,301.2
+April,North Western,Kurunegala,Single_Family,7,57.7,1,0.0,7,2,1,1,0,0,2,0.0,4.8,5.4,2.1,No,0.0,28.4,301.6,309.2
+April,North Western,Kurunegala,Apartment,7,92.3,2,0.0,8,1,1,1,0,3,2,0.0,10.6,2.1,3.3,No,0.0,25.5,310.0,318.2
+April,Southern,Matara,Single_Family,7,45.0,1,0.0,8,1,3,1,2,2,3,0.0,8.1,2.5,1.8,No,0.0,28.0,357.6,412.7
+April,Southern,Matara,Single_Family,4,72.2,1,1.0,4,2,2,2,0,1,3,8.9,9.3,4.3,3.7,No,0.0,29.6,433.9,464.0
+April,Southern,Matara,Semi_Detached,3,122.2,3,,5,2,2,1,0,1,1,0.0,10.7,5.5,2.4,Yes,7.4,25.8,145.0,167.3
+April,Uva,Monaragala,Apartment,2,40.0,2,2.0,2,1,3,1,0,2,0,7.4,8.1,5.8,3.4,No,0.0,27.1,338.0,391.9
+April,Northern,Mullaitivu,Apartment,7,80.2,2,0.0,8,1,2,2,2,3,0,0.0,6.3,3.3,1.3,No,0.0,,342.4,386.0
+April,Central,Nuwara Eliya,Single_Family,6,170.9,4,1.0,8,1,1,1,2,2,1,3.1,7.2,5.3,1.6,Yes,5.8,25.3,348.9,309.0
+April,Central,Nuwara Eliya,Single_Family,6,111.6,3,0.0,8,1,1,1,1,2,3,0.0,6.0,3.8,2.2,No,0.0,29.8,364.3,381.5
+April,North Central,Polonnaruwa,Single_Family,1,127.5,3,0.0,3,1,1,1,1,0,3,0.0,9.8,3.3,1.8,No,0.0,27.8,243.0,288.6
+April,North Central,Polonnaruwa,Apartment,7,104.2,2,2.0,8,1,2,2,2,1,3,6.1,5.9,6.7,3.0,Yes,4.2,,548.7,459.8
+April,North Central,Polonnaruwa,Semi_Detached,4,160.7,3,2.0,4,1,1,1,0,2,2,2.4,,5.2,3.0,No,0.0,30.8,370.7,451.0
+April,North Central,Polonnaruwa,Single_Family,5,113.1,2,0.0,5,1,1,1,1,2,1,0.0,5.0,3.1,2.0,Yes,3.6,26.1,211.1,235.8
+April,North Central,Polonnaruwa,Semi_Detached,7,119.8,3,0.0,8,1,1,1,0,0,2,0.0,7.6,2.7,3.6,No,0.0,29.5,361.9,316.1
+April,North Western,Puttalam,Single_Family,3,158.3,4,0.0,3,1,1,0,0,1,3,0.0,7.1,6.1,3.3,Yes,5.7,26.7,190.7,156.4
+April,North Western,Puttalam,Single_Family,4,183.9,4,0.0,6,1,2,1,0,0,3,0.0,7.4,7.0,3.2,No,0.0,30.3,346.0,326.9
+April,North Western,Puttalam,Semi_Detached,6,115.5,3,1.0,6,1,1,1,0,0,0,6.3,10.1,6.4,3.3,No,0.0,26.9,361.4,333.6
+April,Sabaragamuwa,Ratnapura,Single_Family,6,106.9,3,0.0,8,2,2,1,1,1,0,0.0,8.6,5.5,3.8,No,0.0,25.3,327.6,302.1
+April,Eastern,Trincomalee,Semi_Detached,4,52.1,2,2.0,6,2,1,1,2,3,3,3.2,5.0,6.1,2.2,No,0.0,29.9,488.0,445.0
+May,Eastern,Ampara,Apartment,5,79.7,2,0.0,6,1,1,1,2,2,3,0.0,7.7,2.8,1.0,No,0.0,27.5,356.2,332.6
+May,Uva,Badulla,Single_Family,7,129.6,2,0.0,8,2,1,1,0,1,0,0.0,11.9,5.6,3.3,Yes,3.1,28.5,333.1,345.2
+May,Eastern,Batticaloa,Single_Family,1,52.0,2,0.0,3,1,1,1,0,2,2,0.0,9.1,6.4,1.3,No,0.0,25.5,229.5,202.2
+May,Western,Colombo,Single_Family,3,40.0,1,0.0,5,2,1,2,2,2,3,0.0,6.3,3.4,3.3,Yes,2.4,30.5,,272.3
+May,Southern,Galle,Single_Family,1,193.4,5,0.0,3,1,1,1,1,2,3,0.0,9.4,4.1,3.4,Yes,2.2,27.5,217.3,294.3
+May,Western,Gampaha,Apartment,5,171.5,4,0.0,6,1,2,1,1,0,2,0.0,4.3,5.8,2.0,Yes,3.8,28.7,273.8,288.9
+May,Southern,Hambantota,Single_Family,3,107.5,3,1.0,5,1,2,1,1,3,0,7.9,7.8,3.0,1.8,No,0.0,30.1,395.2,419.1
+May,Central,Kandy,Semi_Detached,1,110.3,2,2.0,3,1,3,1,1,1,0,6.6,5.7,2.3,1.7,No,0.0,26.4,376.8,349.5
+May,Central,Kandy,Single_Family,2,41.1,1,0.0,2,1,1,0,1,1,2,0.0,10.0,2.2,1.7,No,0.0,30.7,222.8,203.3
+May,Northern,Kilinochchi,Single_Family,2,95.7,1,1.0,3,1,1,2,2,2,3,7.8,8.4,4.7,3.1,No,0.0,30.2,450.8,441.8
+May,Northern,Kilinochchi,Single_Family,2,40.0,1,0.0,3,2,3,0,2,3,1,,11.7,2.7,1.6,No,0.0,27.1,232.4,239.9
+May,Northern,Mannar,Single_Family,5,93.7,2,1.0,6,1,1,0,0,2,1,6.1,4.0,4.6,3.5,Yes,3.3,29.7,349.1,375.2
+May,Central,Matale,Single_Family,7,187.8,4,2.0,8,1,3,1,0,2,0,8.6,4.7,5.6,1.0,No,0.0,25.3,518.6,578.1
+May,Central,Matale,Single_Family,2,54.4,1,0.0,2,1,2,1,1,0,3,,7.9,2.9,3.6,No,0.0,29.6,256.5,271.6
+May,Southern,Matara,Single_Family,4,138.9,3,1.0,6,2,1,0,1,2,1,4.8,7.3,6.6,3.9,No,0.0,30.7,424.7,438.1
+May,Uva,Monaragala,Single_Family,3,179.3,4,1.0,3,1,2,2,2,0,2,2.9,7.5,3.2,4.0,No,0.0,26.4,375.4,354.7
+May,North Central,Polonnaruwa,Single_Family,5,40.0,1,0.0,7,1,1,0,2,2,1,0.0,7.2,2.9,1.2,No,,31.0,,296.6
+May,North Central,Polonnaruwa,Apartment,3,59.0,1,1.0,3,1,3,1,0,0,1,3.9,5.7,4.6,1.3,No,0.0,26.8,311.3,274.3
+May,Eastern,Trincomalee,Single_Family,5,106.3,2,2.0,5,1,3,1,0,0,0,4.7,11.9,4.8,1.6,No,0.0,25.3,401.7,434.0
+May,Eastern,Trincomalee,Single_Family,2,177.1,4,2.0,3,1,1,1,1,1,2,6.6,7.1,6.6,3.6,No,0.0,26.3,425.9,484.8
+May,Northern,Vavuniya,Single_Family,7,121.2,3,2.0,8,1,3,2,1,2,0,5.6,11.7,4.8,3.5,Yes,3.8,30.3,506.4,491.6
+June,North Central,Anuradhapura,Single_Family,1,79.9,1,0.0,2,1,1,2,2,1,2,0.0,,6.7,3.9,No,0.0,30.5,262.5,250.5
+June,Uva,Badulla,Apartment,2,136.5,3,0.0,4,1,1,1,0,3,1,0.0,6.8,7.0,1.9,No,0.0,28.1,190.7,215.8
+June,Western,Colombo,Single_Family,4,130.8,3,0.0,4,1,3,1,0,0,2,0.0,11.6,4.6,1.5,No,0.0,28.2,244.3,303.7
+June,Southern,Galle,Semi_Detached,6,113.9,3,1.0,7,1,1,1,2,3,2,4.5,6.8,6.4,2.6,No,0.0,30.8,460.5,486.7
+June,Western,Gampaha,Single_Family,4,165.7,4,1.0,4,2,1,2,1,1,2,8.0,11.8,4.4,4.0,Yes,2.2,26.1,377.0,397.4
+June,Western,Gampaha,Apartment,6,58.3,1,0.0,7,1,2,1,2,2,1,0.0,6.6,3.7,3.6,No,0.0,30.6,393.1,346.9
+June,Southern,Hambantota,Single_Family,7,156.8,4,1.0,8,1,1,0,1,2,1,3.5,9.4,3.9,2.6,Yes,7.4,30.1,345.2,374.8
+June,Northern,Jaffna,Single_Family,1,66.2,1,1.0,1,1,1,0,1,0,0,6.2,8.9,6.0,1.8,Yes,7.0,28.1,189.2,234.3
+June,Western,Kalutara,Single_Family,1,101.7,2,1.0,1,1,3,2,1,1,3,6.1,6.1,5.1,1.3,No,0.0,30.7,305.8,374.0
+June,Western,Kalutara,Single_Family,5,140.2,4,0.0,7,1,2,1,0,1,3,0.0,4.4,4.0,1.2,No,0.0,27.0,319.0,303.9
+June,Central,Kandy,Semi_Detached,6,83.6,2,1.0,8,1,2,1,1,2,1,2.6,10.3,4.6,3.2,No,0.0,25.1,392.1,428.9
+June,Central,Kandy,Single_Family,4,194.3,4,1.0,4,2,3,2,1,1,1,3.3,4.7,5.6,3.3,No,0.0,26.3,388.4,374.2
+June,Central,Kandy,Single_Family,6,150.4,4,1.0,6,1,2,2,0,2,1,3.3,11.9,2.5,4.0,Yes,2.2,28.7,348.5,395.5
+June,Central,Kandy,Apartment,2,103.5,2,0.0,2,1,3,1,0,2,0,0.0,10.3,4.2,2.0,No,0.0,30.8,271.8,197.4
+June,North Western,Kurunegala,Single_Family,4,192.9,3,0.0,4,1,2,1,1,0,3,,9.4,5.0,2.4,Yes,2.7,30.4,323.4,281.3
+June,Northern,Mannar,Semi_Detached,3,154.1,3,1.0,5,1,3,0,0,1,2,6.2,4.0,4.4,1.3,No,0.0,28.1,351.8,400.2
+June,Southern,Matara,Single_Family,6,131.8,2,0.0,6,1,2,1,0,3,1,0.0,4.8,3.7,2.5,No,0.0,25.3,316.5,317.0
+June,Uva,Monaragala,Single_Family,2,80.2,1,0.0,4,1,1,2,1,0,0,0.0,,3.6,2.4,No,0.0,29.3,,228.7
+June,Uva,Monaragala,Single_Family,1,127.2,3,1.0,1,1,3,1,2,1,0,4.0,9.0,2.4,3.6,No,0.0,,,297.7
+June,Uva,Monaragala,Single_Family,6,79.6,1,0.0,7,1,3,2,0,2,0,0.0,,3.8,1.6,No,0.0,29.1,314.1,354.5
+June,Uva,Monaragala,Single_Family,7,41.3,1,0.0,8,1,3,1,1,2,2,0.0,8.9,6.5,3.1,Yes,2.7,28.9,350.1,369.2
+June,Uva,Monaragala,Single_Family,1,106.5,2,0.0,1,1,3,0,2,3,3,0.0,10.5,2.1,3.8,No,0.0,28.3,290.0,307.0
+June,Central,Nuwara Eliya,Single_Family,5,151.5,3,1.0,7,1,3,1,0,3,3,3.6,8.7,2.4,1.3,No,0.0,25.0,,434.4
+June,North Central,Polonnaruwa,Semi_Detached,6,146.4,3,1.0,8,1,3,2,0,1,3,2.6,7.2,5.9,3.0,No,,25.1,355.0,446.0
+June,North Western,Puttalam,Single_Family,3,40.0,1,1.0,4,2,2,2,1,1,0,4.9,4.2,4.6,1.1,No,,28.6,352.0,373.2
+June,North Western,Puttalam,Single_Family,1,105.7,3,0.0,3,1,2,1,0,2,2,0.0,8.8,4.1,2.8,No,0.0,27.0,159.0,201.8
+June,North Western,Puttalam,Apartment,6,159.1,3,0.0,7,1,3,0,0,1,1,0.0,10.7,3.9,2.0,No,0.0,29.4,332.5,335.8
+June,Eastern,Trincomalee,Single_Family,2,171.7,3,0.0,4,2,1,0,1,0,1,0.0,4.6,3.6,2.3,No,0.0,30.4,311.5,276.6
+July,Eastern,Ampara,Apartment,2,40.0,1,2.0,4,1,1,1,0,0,2,7.4,4.9,5.4,1.3,No,0.0,28.1,358.9,405.8
+July,Uva,Badulla,Apartment,4,57.8,1,0.0,5,1,2,0,1,1,3,0.0,5.9,2.9,3.3,No,0.0,30.6,252.4,278.0
+July,Western,Colombo,Semi_Detached,4,256.7,6,2.0,5,1,3,1,0,2,0,6.4,7.2,6.4,1.9,No,0.0,29.5,446.2,530.8
+July,Western,Gampaha,Single_Family,5,61.6,1,0.0,7,1,2,2,1,2,0,0.0,6.3,2.0,2.4,No,0.0,30.1,308.7,324.9
+July,Southern,Hambantota,Single_Family,6,172.3,3,1.0,7,1,3,1,1,1,3,3.6,4.4,5.1,3.9,No,0.0,25.1,450.3,433.8
+July,Southern,Hambantota,Single_Family,6,189.1,4,2.0,8,1,2,2,0,2,1,3.5,8.7,6.5,2.1,No,0.0,28.9,495.5,474.9
+July,Central,Kandy,Single_Family,5,180.4,4,0.0,6,1,1,2,1,1,2,0.0,,3.5,1.7,No,0.0,29.1,345.5,338.4
+July,Northern,Kilinochchi,Single_Family,7,112.4,4,1.0,8,2,2,1,0,2,3,7.2,6.8,5.3,3.0,No,0.0,28.5,501.2,547.2
+July,North Western,Kurunegala,Single_Family,6,145.4,3,0.0,6,1,1,1,2,0,1,0.0,4.3,2.6,2.1,No,0.0,26.9,361.2,291.5
+July,North Western,Kurunegala,Single_Family,7,120.3,3,1.0,8,1,3,1,2,1,3,5.2,6.7,6.9,2.5,No,0.0,30.0,488.0,548.5
+July,Southern,Matara,Apartment,4,184.3,4,0.0,4,2,2,2,2,2,3,0.0,6.1,3.5,3.2,No,0.0,29.3,358.7,384.8
+July,Southern,Matara,Single_Family,7,138.3,3,2.0,8,2,1,1,0,3,0,4.7,5.9,6.3,1.1,No,0.0,27.9,413.5,452.7
+July,North Central,Polonnaruwa,Single_Family,3,173.3,4,0.0,4,2,3,1,1,2,3,0.0,10.9,4.0,1.9,No,0.0,28.8,356.3,360.5
+July,Sabaragamuwa,Ratnapura,Apartment,3,79.7,1,1.0,4,1,2,1,1,1,2,6.2,4.2,3.8,1.6,No,0.0,27.0,341.1,426.7
+July,Sabaragamuwa,Ratnapura,Apartment,6,183.1,3,2.0,7,1,3,1,0,0,0,7.2,5.3,6.9,3.4,No,0.0,29.9,508.2,482.8
+July,Sabaragamuwa,Ratnapura,Single_Family,3,113.4,3,0.0,3,1,1,2,0,3,1,0.0,4.0,6.4,2.2,No,0.0,25.7,234.2,210.4
+July,Eastern,Trincomalee,Single_Family,3,144.1,3,1.0,5,1,1,1,0,1,2,5.9,11.9,4.7,1.7,No,0.0,30.8,404.0,358.3
+August,Uva,Badulla,Semi_Detached,3,40.0,1,2.0,4,1,3,0,1,0,2,6.6,7.0,4.3,3.9,No,0.0,29.1,403.1,427.9
+August,Uva,Badulla,Single_Family,4,71.0,2,1.0,6,1,2,1,1,2,0,2.5,4.5,4.5,2.8,No,0.0,27.8,,301.2
+August,Uva,Badulla,Single_Family,4,118.0,3,1.0,4,1,1,1,0,3,1,5.1,10.1,3.0,1.1,No,0.0,30.7,395.3,352.6
+August,Eastern,Batticaloa,Single_Family,1,151.2,3,2.0,2,1,3,1,1,2,2,8.6,6.6,6.6,2.6,No,,28.4,436.9,424.5
+August,Western,Colombo,Apartment,1,126.1,3,0.0,2,1,3,0,0,2,2,0.0,4.8,4.5,1.6,Yes,2.3,27.1,214.9,161.3
+August,Western,Colombo,Single_Family,2,146.0,3,0.0,2,1,2,1,0,0,3,0.0,9.9,3.6,3.1,No,0.0,28.8,246.3,231.8
+August,Western,Colombo,Single_Family,5,64.9,1,1.0,6,1,3,1,2,1,1,4.0,8.1,6.8,1.9,Yes,3.4,28.3,390.8,363.3
+August,Western,Gampaha,Apartment,6,250.5,6,0.0,6,1,1,1,0,1,2,0.0,5.1,2.9,1.3,No,0.0,27.2,308.7,333.2
+August,Western,Gampaha,Single_Family,6,40.0,1,2.0,7,1,1,1,0,0,2,3.9,7.7,4.0,2.6,No,0.0,26.9,425.9,436.9
+August,Western,Gampaha,Single_Family,2,116.1,2,1.0,4,1,2,1,1,0,2,6.8,,6.4,3.1,Yes,7.0,27.1,235.1,253.8
+August,Western,Gampaha,Apartment,7,115.8,2,2.0,8,1,1,1,1,1,0,7.2,4.5,6.5,3.5,No,0.0,25.5,522.4,466.4
+August,Southern,Hambantota,Single_Family,2,181.8,5,0.0,4,1,1,1,0,0,0,0.0,11.8,4.6,1.4,No,0.0,25.7,232.7,226.0
+August,Central,Kandy,Single_Family,6,116.4,3,1.0,6,2,3,1,1,1,1,6.9,5.8,6.8,2.5,Yes,3.4,29.4,453.5,408.2
+August,Central,Kandy,Apartment,7,80.0,1,1.0,8,2,3,2,1,0,0,4.2,5.5,7.0,3.2,No,0.0,25.3,408.3,457.5
+August,Sabaragamuwa,Kegalle,Apartment,2,143.8,4,0.0,2,1,1,1,1,0,2,0.0,11.8,4.8,2.1,Yes,6.4,30.4,201.4,226.3
+August,Sabaragamuwa,Kegalle,Single_Family,1,130.0,3,1.0,3,1,2,1,1,1,2,8.6,11.7,3.4,3.1,No,0.0,26.7,357.8,389.2
+August,North Western,Kurunegala,Semi_Detached,6,129.6,3,0.0,7,1,2,2,1,1,2,0.0,6.1,3.3,2.6,No,0.0,25.4,338.8,338.6
+August,Central,Matale,Apartment,2,203.7,4,2.0,4,1,2,2,2,1,0,7.5,11.6,2.0,2.8,No,0.0,28.2,465.5,467.9
+August,Central,Nuwara Eliya,Apartment,4,114.2,3,0.0,6,1,2,1,0,2,0,0.0,10.3,4.5,2.2,Yes,3.8,28.5,266.5,229.9
+August,North Western,Puttalam,Single_Family,6,53.5,2,0.0,6,1,2,1,2,1,0,0.0,8.3,5.4,3.3,No,0.0,29.0,293.9,330.5
+August,Sabaragamuwa,Ratnapura,Single_Family,5,40.0,1,0.0,5,1,3,1,2,0,2,0.0,4.8,5.3,2.9,No,0.0,30.8,348.0,289.9
+August,Eastern,Trincomalee,Single_Family,6,76.3,1,1.0,8,1,3,0,0,2,0,4.6,8.8,2.3,2.9,No,0.0,27.5,363.1,358.2
+August,Eastern,Trincomalee,Single_Family,6,192.7,4,1.0,8,1,2,0,2,3,0,5.3,8.5,4.6,3.6,No,0.0,25.2,409.2,476.6
+August,Northern,Vavuniya,Single_Family,3,47.5,1,0.0,4,1,3,1,0,1,0,0.0,7.9,2.2,3.6,No,0.0,25.1,176.7,203.7
+September,Eastern,Ampara,Single_Family,4,40.0,1,,6,1,3,2,1,0,2,4.2,6.2,4.1,1.8,No,0.0,25.6,371.5,362.7
+September,North Central,Anuradhapura,Single_Family,7,,3,2.0,8,1,3,2,0,1,0,7.3,8.8,4.7,3.8,No,0.0,25.4,495.7,484.5
+September,Uva,Badulla,Single_Family,4,116.0,3,2.0,4,1,1,1,1,2,3,,12.0,6.0,1.7,No,0.0,26.7,492.6,500.8
+September,Eastern,Batticaloa,Apartment,3,93.5,2,0.0,4,1,3,0,2,3,3,0.0,10.4,2.8,2.4,No,0.0,27.7,307.2,325.5
+September,Western,Colombo,Semi_Detached,5,147.6,4,1.0,5,1,2,1,0,3,3,7.8,9.4,6.3,2.1,No,0.0,27.6,457.3,489.6
+September,Southern,Galle,Apartment,1,124.2,3,0.0,2,1,1,2,0,0,1,0.0,4.3,3.9,3.0,No,0.0,31.0,204.6,214.8
+September,Southern,Galle,Single_Family,6,40.0,1,2.0,8,2,3,2,0,2,1,4.3,10.4,3.1,3.5,No,0.0,29.1,505.2,420.8
+September,Western,Gampaha,Apartment,7,198.4,4,0.0,8,1,3,0,1,2,0,0.0,10.2,4.0,3.5,Yes,3.6,27.1,321.6,257.3
+September,Western,Gampaha,Single_Family,5,87.8,2,0.0,7,1,2,1,0,3,3,0.0,11.2,6.4,1.4,No,0.0,30.8,330.6,313.7
+September,Southern,Hambantota,Single_Family,6,171.9,4,0.0,7,1,3,1,2,1,0,0.0,4.9,6.1,1.4,No,0.0,28.5,355.7,389.0
+September,Southern,Hambantota,Single_Family,5,158.5,3,0.0,5,1,2,1,1,0,2,0.0,7.5,5.4,1.4,No,0.0,26.2,316.4,297.7
+September,Southern,Hambantota,Single_Family,5,105.3,2,0.0,5,1,3,2,0,2,0,0.0,9.2,6.5,1.4,No,0.0,,244.8,275.2
+September,Western,Kalutara,Single_Family,3,62.2,1,0.0,5,1,1,1,1,2,1,0.0,11.9,4.2,4.0,No,0.0,30.1,271.0,259.7
+September,Central,Kandy,Apartment,4,65.6,3,0.0,4,1,3,1,1,1,2,0.0,5.2,4.7,1.5,No,,29.8,314.3,326.4
+September,Central,Kandy,Semi_Detached,5,138.6,3,0.0,6,2,1,1,1,1,1,0.0,4.4,3.4,3.4,No,0.0,26.1,308.4,324.8
+September,Sabaragamuwa,Kegalle,Single_Family,2,,2,1.0,3,1,1,0,2,1,3,6.5,7.4,6.9,2.2,Yes,6.6,28.6,328.2,283.6
+September,Sabaragamuwa,Kegalle,Single_Family,2,134.2,3,2.0,3,1,3,1,0,1,2,7.5,5.1,4.2,1.2,No,0.0,25.6,371.4,354.8
+September,Sabaragamuwa,Kegalle,Single_Family,7,105.7,3,1.0,8,1,3,1,2,2,1,5.4,7.3,5.1,3.1,No,0.0,29.8,471.8,458.1
+September,North Western,Kurunegala,Apartment,2,103.4,2,0.0,2,2,1,2,1,2,1,0.0,8.1,4.9,3.5,Yes,6.8,27.0,176.2,180.2
+September,Northern,Mannar,Single_Family,2,197.7,4,0.0,3,1,2,1,1,0,1,0.0,4.8,5.0,1.4,Yes,2.4,27.5,243.0,198.8
+September,North Central,Polonnaruwa,Semi_Detached,7,69.5,1,0.0,7,1,3,1,2,2,3,0.0,7.3,6.2,3.5,No,0.0,27.7,392.4,414.7
+September,North Western,Puttalam,Single_Family,5,40.8,1,0.0,5,1,3,1,1,1,3,0.0,4.1,4.0,3.1,Yes,2.4,28.7,237.6,245.2
+September,Sabaragamuwa,Ratnapura,Single_Family,6,133.1,3,2.0,8,1,3,1,0,1,1,8.1,11.1,4.3,1.8,Yes,3.6,29.5,448.4,411.3
+September,Sabaragamuwa,Ratnapura,Single_Family,4,70.5,1,,5,1,1,0,2,3,1,5.9,9.3,5.6,1.3,No,0.0,29.8,410.7,393.2
+September,Sabaragamuwa,Ratnapura,Single_Family,4,83.9,1,1.0,4,1,3,0,0,1,3,2.1,10.7,3.2,3.8,No,0.0,26.8,360.4,338.2
+September,Sabaragamuwa,Ratnapura,Single_Family,3,53.7,1,,3,1,1,0,0,3,1,8.0,9.5,2.9,2.5,No,0.0,27.8,319.7,355.3
+September,Eastern,Trincomalee,Single_Family,5,117.6,3,1.0,5,1,1,2,1,2,3,3.2,11.0,5.9,3.7,No,0.0,30.7,402.1,450.4
+September,Northern,Vavuniya,Semi_Detached,4,90.0,3,0.0,4,1,2,0,2,2,1,0.0,6.0,3.6,3.6,No,0.0,30.0,336.0,315.8
+October,North Central,Anuradhapura,Single_Family,5,122.3,3,1.0,7,1,3,1,0,3,2,2.8,4.1,6.2,2.2,No,0.0,30.1,401.9,402.0
+October,Uva,Badulla,Semi_Detached,7,92.2,1,0.0,7,2,3,1,1,2,3,0.0,10.2,7.0,2.0,No,0.0,25.2,393.8,386.4
+October,Western,Colombo,Apartment,7,124.4,3,1.0,8,2,3,1,1,1,3,8.2,8.4,2.3,3.3,No,0.0,26.3,518.7,485.1
+October,Western,Gampaha,Semi_Detached,1,176.1,4,0.0,2,1,3,1,1,0,3,0.0,10.5,4.6,1.9,No,0.0,30.1,314.5,249.9
+October,Western,Gampaha,Single_Family,5,63.2,2,0.0,5,1,2,1,1,1,3,0.0,,6.2,1.2,Yes,6.5,28.3,285.0,228.7
+October,Western,Gampaha,Single_Family,7,139.8,3,1.0,8,1,1,1,2,2,3,8.8,6.2,2.7,3.1,No,0.0,30.4,483.6,522.0
+October,Southern,Hambantota,Single_Family,6,117.7,3,1.0,8,1,2,1,0,0,3,3.3,7.8,5.4,3.8,No,0.0,30.2,379.2,447.4
+October,Western,Kalutara,Single_Family,5,92.1,2,0.0,5,1,2,2,0,1,2,0.0,10.8,2.0,2.7,Yes,7.2,27.1,212.9,206.9
+October,Central,Kandy,Single_Family,4,137.3,3,0.0,6,1,3,1,0,1,1,0.0,4.5,6.4,1.8,No,0.0,28.5,284.8,310.6
+October,Central,Kandy,Apartment,7,159.2,3,0.0,8,1,2,1,1,3,0,0.0,,2.1,2.7,No,0.0,30.0,417.0,373.2
+October,North Western,Kurunegala,Single_Family,7,136.1,4,0.0,7,1,2,1,0,0,0,0.0,4.9,3.9,1.6,Yes,3.6,25.3,262.5,248.7
+October,North Western,Kurunegala,Single_Family,3,106.1,2,0.0,5,1,1,1,1,1,0,0.0,10.2,4.3,1.4,No,0.0,30.9,273.9,303.0
+October,North Western,Kurunegala,Single_Family,5,119.0,2,2.0,6,1,1,1,0,3,1,6.5,7.5,6.8,2.9,No,0.0,27.9,465.1,518.4
+October,North Western,Kurunegala,Apartment,1,122.7,3,1.0,3,1,1,2,1,1,1,3.5,8.4,3.2,2.8,Yes,4.3,29.5,289.8,234.9
+October,Northern,Mannar,Single_Family,2,137.0,3,1.0,2,1,3,1,0,2,2,2.1,6.6,2.5,3.0,No,0.0,27.9,327.3,301.3
+October,Uva,Monaragala,Single_Family,2,,1,1.0,3,1,3,2,2,1,2,8.4,4.1,6.6,2.9,No,0.0,25.5,376.7,381.8
+October,Uva,Monaragala,Single_Family,7,163.7,3,1.0,7,1,1,0,1,2,1,2.4,9.2,6.6,3.3,Yes,5.4,28.2,372.3,372.1
+October,Northern,Mullaitivu,Semi_Detached,3,40.0,1,1.0,5,1,1,1,0,1,3,,4.2,4.4,1.9,Yes,7.1,27.2,297.5,237.6
+October,Northern,Mullaitivu,Single_Family,5,75.7,2,0.0,5,1,1,1,1,3,3,0.0,11.3,6.6,1.4,No,0.0,27.2,351.7,318.6
+October,Central,Nuwara Eliya,Single_Family,4,103.6,2,0.0,6,2,1,2,1,2,2,0.0,6.4,4.1,2.1,No,0.0,30.9,346.7,366.5
+October,North Central,Polonnaruwa,Single_Family,2,133.8,3,1.0,2,1,3,1,2,1,2,7.3,11.6,6.0,3.3,Yes,5.2,25.0,339.1,348.2
+October,North Central,Polonnaruwa,Single_Family,4,85.0,2,0.0,4,2,2,1,1,1,1,0.0,6.6,5.2,2.1,Yes,7.4,30.7,191.6,199.1
+October,North Central,Polonnaruwa,Single_Family,1,59.2,1,1.0,3,1,2,0,1,0,0,4.9,5.7,6.7,3.9,No,0.0,29.8,286.9,322.7
+October,North Western,Puttalam,Single_Family,4,155.8,4,0.0,6,1,1,1,0,2,3,0.0,10.7,4.4,3.3,Yes,4.1,29.0,270.5,284.6
+October,Sabaragamuwa,Ratnapura,Single_Family,4,40.0,1,0.0,5,2,2,1,0,3,1,0.0,9.7,3.1,2.0,No,0.0,25.9,237.6,272.1
+October,Sabaragamuwa,Ratnapura,Single_Family,4,129.9,3,0.0,4,1,1,2,1,1,1,0.0,10.2,3.3,3.9,No,0.0,27.7,307.9,289.3
+November,Eastern,Ampara,Single_Family,5,154.6,4,0.0,7,1,1,2,1,2,0,0.0,,3.3,1.7,Yes,7.8,28.3,211.7,183.7
+November,Eastern,Ampara,Apartment,7,152.4,3,0.0,7,1,2,2,1,2,1,0.0,11.9,6.6,2.4,Yes,6.8,25.6,309.9,343.5
+November,North Central,Anuradhapura,Apartment,6,153.6,4,1.0,8,2,2,1,2,1,3,7.4,8.8,6.8,2.0,No,0.0,28.9,558.3,528.7
+November,North Central,Anuradhapura,Single_Family,7,65.0,2,0.0,7,1,3,2,0,2,0,0.0,4.2,2.6,3.3,No,0.0,26.3,,331.2
+November,Uva,Badulla,Apartment,5,81.3,1,0.0,7,1,2,1,1,1,2,0.0,6.0,2.3,3.8,Yes,4.9,29.4,305.0,258.1
+November,Uva,Badulla,Semi_Detached,1,137.3,3,2.0,1,1,3,1,1,2,3,2.2,11.3,5.1,2.4,No,0.0,30.3,,361.5
+November,Eastern,Batticaloa,Semi_Detached,2,124.1,3,1.0,2,1,1,0,0,3,3,4.0,,4.6,3.6,No,0.0,26.9,293.4,357.3
+November,Western,Colombo,Single_Family,5,174.1,3,2.0,7,1,3,1,0,1,2,5.5,6.3,3.0,1.7,No,0.0,26.4,460.9,456.2
+November,Western,Colombo,Single_Family,2,92.3,2,1.0,2,1,1,1,2,3,3,4.4,4.1,6.8,1.9,Yes,2.3,26.6,316.9,365.4
+November,Western,Colombo,Apartment,6,70.2,1,1.0,6,1,1,1,2,2,1,5.9,6.5,2.2,3.3,No,0.0,30.3,437.9,422.4
+November,Western,Colombo,Single_Family,1,191.9,4,0.0,2,2,1,1,1,1,0,0.0,11.1,5.7,1.8,No,0.0,28.8,274.7,266.9
+November,Western,Colombo,Single_Family,6,102.2,2,0.0,7,2,3,0,1,0,1,0.0,7.1,3.6,1.6,Yes,5.9,27.3,252.0,245.3
+November,Western,Colombo,Single_Family,3,108.8,3,1.0,5,1,1,1,1,1,0,8.8,5.5,6.6,2.6,No,0.0,28.1,366.1,426.1
+November,Western,Colombo,Single_Family,2,189.6,4,1.0,3,1,2,1,1,0,3,4.9,10.2,2.3,3.2,No,0.0,26.3,363.0,380.8
+November,Southern,Galle,Single_Family,4,149.9,4,2.0,6,1,2,2,0,3,2,6.8,5.3,4.4,1.1,No,0.0,27.2,411.9,471.0
+November,Western,Gampaha,Semi_Detached,3,155.3,4,1.0,5,1,2,1,2,3,0,4.6,4.4,3.6,1.8,No,0.0,25.9,374.4,415.1
+November,Southern,Hambantota,Single_Family,3,144.9,3,0.0,3,2,3,1,1,0,1,0.0,8.8,3.6,3.4,No,0.0,27.0,295.9,279.4
+November,Southern,Hambantota,Single_Family,2,40.0,1,1.0,3,2,3,0,0,3,0,7.0,4.8,5.2,2.0,No,0.0,28.1,376.0,319.1
+November,Southern,Hambantota,Apartment,3,143.9,4,0.0,4,1,2,0,1,3,2,0.0,10.6,5.5,1.2,No,0.0,29.7,325.4,319.5
+November,Western,Kalutara,Semi_Detached,4,160.4,3,0.0,6,1,1,1,0,3,1,0.0,6.4,4.1,2.7,No,0.0,28.1,,253.6
+November,Western,Kalutara,Single_Family,6,121.6,3,2.0,8,1,1,1,1,2,2,6.6,5.0,5.4,1.8,Yes,2.9,26.5,460.2,420.4
+November,North Western,Kurunegala,Single_Family,4,73.3,2,0.0,5,1,1,1,0,1,3,0.0,7.3,2.3,3.3,Yes,2.2,29.2,177.6,281.5
+November,North Western,Kurunegala,Single_Family,7,110.5,2,0.0,8,1,1,1,0,0,3,0.0,11.6,6.5,2.2,No,0.0,29.5,315.8,337.8
+November,North Western,Kurunegala,Single_Family,1,119.4,2,1.0,2,1,2,1,1,3,1,4.2,7.7,2.6,1.3,Yes,4.9,26.2,237.2,270.3
+November,North Western,Kurunegala,Single_Family,2,126.3,3,0.0,2,1,1,1,1,3,1,0.0,5.7,3.5,3.3,No,0.0,28.4,224.3,291.8
+November,Central,Matale,Single_Family,4,124.4,3,1.0,4,2,1,0,1,2,0,5.2,10.0,4.8,3.5,Yes,7.4,28.7,298.6,274.4
+November,Central,Matale,Single_Family,5,113.6,3,1.0,6,1,3,0,1,2,0,8.2,8.3,5.3,3.1,No,0.0,26.5,387.3,440.4
+November,Southern,Matara,Apartment,1,123.7,4,0.0,3,1,2,1,1,2,3,0.0,6.3,4.0,3.6,No,0.0,28.7,259.5,275.8
+November,Uva,Monaragala,Single_Family,3,49.1,1,1.0,5,1,1,1,0,1,3,6.7,8.9,6.7,3.9,No,0.0,28.5,344.6,321.9
+November,Central,Nuwara Eliya,Single_Family,5,96.8,1,0.0,7,1,2,0,1,3,3,0.0,9.5,5.3,3.4,No,0.0,28.0,,313.4
+November,North Central,Polonnaruwa,Single_Family,5,66.0,1,0.0,5,1,1,1,2,1,2,0.0,5.9,2.0,2.8,Yes,3.0,26.2,266.2,260.6
+November,North Central,Polonnaruwa,Single_Family,3,122.8,3,0.0,3,2,1,1,0,2,3,0.0,8.5,5.2,2.6,No,0.0,,290.7,307.3
+November,North Central,Polonnaruwa,Single_Family,1,80.1,2,2.0,2,1,2,2,0,1,3,3.9,10.1,3.9,2.0,No,0.0,29.2,380.3,374.0
+November,North Western,Puttalam,Single_Family,1,79.9,3,1.0,2,2,1,0,0,1,3,7.7,10.1,6.7,2.7,No,0.0,28.0,,368.4
+November,North Western,Puttalam,Single_Family,4,192.9,5,0.0,5,1,1,2,1,0,0,0.0,9.5,5.3,1.5,No,0.0,26.4,251.3,274.3
+November,North Western,Puttalam,Semi_Detached,2,105.3,2,1.0,4,1,1,1,1,1,2,6.2,11.9,6.7,3.3,No,0.0,29.8,390.6,435.8
+November,Northern,Vavuniya,Single_Family,4,100.8,2,0.0,4,1,1,2,1,1,0,0.0,8.1,6.2,2.7,No,0.0,31.0,274.2,227.7
+December,Eastern,Ampara,Semi_Detached,3,62.0,2,0.0,3,1,1,1,2,3,2,0.0,5.1,5.4,3.7,No,0.0,28.0,331.6,300.3
+December,Eastern,Ampara,Semi_Detached,4,89.6,1,0.0,4,1,1,1,0,0,2,0.0,7.4,4.7,3.3,No,0.0,,270.6,291.8
+December,North Central,Anuradhapura,Single_Family,5,155.0,4,1.0,5,1,1,2,2,2,0,7.3,4.2,2.9,1.8,No,0.0,,445.5,464.1
+December,Uva,Badulla,Apartment,2,123.8,3,0.0,3,2,1,2,0,1,1,0.0,7.5,4.9,1.2,No,0.0,28.6,246.5,279.8
+December,Western,Colombo,Apartment,1,141.6,3,0.0,3,2,2,1,2,1,1,0.0,7.3,3.2,3.0,No,0.0,28.0,240.3,279.0
+December,Southern,Galle,Semi_Detached,4,108.2,3,0.0,5,2,1,0,1,0,3,0.0,11.9,4.3,3.6,No,0.0,29.7,348.0,299.2
+December,Southern,Galle,Single_Family,6,134.3,4,2.0,8,1,1,1,1,2,1,6.6,4.7,3.0,2.4,No,0.0,28.3,484.7,482.6
+December,Southern,Galle,Semi_Detached,4,209.9,4,0.0,4,1,1,1,2,2,2,0.0,7.4,6.8,3.5,No,0.0,26.2,312.4,307.1
+December,Southern,Galle,Single_Family,1,66.4,2,1.0,3,1,1,2,1,2,0,5.9,8.9,4.7,3.5,Yes,3.5,29.0,298.7,279.5
+December,Western,Gampaha,Semi_Detached,5,210.6,5,1.0,7,1,2,1,2,1,1,7.4,5.1,6.2,3.3,Yes,3.4,25.9,474.4,405.1
+December,Western,Gampaha,Single_Family,1,54.5,1,1.0,1,2,3,1,1,0,0,7.5,5.7,2.5,3.2,No,0.0,25.1,301.7,287.8
+December,Central,Kandy,Single_Family,5,,1,0.0,7,1,1,0,0,2,1,0.0,6.5,5.1,3.9,Yes,7.5,29.3,195.4,149.5
+December,Sabaragamuwa,Kegalle,Semi_Detached,7,114.6,3,1.0,8,2,1,2,0,2,1,4.4,11.3,3.1,1.6,No,0.0,25.1,440.2,481.0
+December,North Western,Kurunegala,Single_Family,1,104.8,3,0.0,2,1,2,2,1,0,1,0.0,6.3,3.7,3.2,No,0.0,29.0,212.2,229.2
+December,North Western,Kurunegala,Single_Family,6,146.0,2,1.0,7,2,3,1,0,0,0,4.5,5.7,4.9,2.3,Yes,2.6,29.8,401.8,365.3
+December,North Western,Kurunegala,Single_Family,4,95.3,1,0.0,4,2,2,1,0,1,1,0.0,6.7,6.9,1.5,Yes,8.0,25.0,169.2,144.2
+December,Southern,Matara,Semi_Detached,3,175.2,3,0.0,4,1,2,1,1,2,2,0.0,9.4,2.2,2.9,No,0.0,27.6,295.5,297.0
+December,Uva,Monaragala,Single_Family,3,57.8,1,0.0,3,1,1,2,0,1,0,0.0,9.0,3.7,3.2,Yes,3.2,26.0,146.3,125.3
+December,Northern,Mullaitivu,Single_Family,3,40.0,1,1.0,5,1,1,1,0,1,3,6.7,6.6,5.2,3.7,No,0.0,27.6,321.5,341.8
+December,North Central,Polonnaruwa,Single_Family,2,115.2,3,1.0,2,1,2,0,1,3,1,8.6,11.9,2.3,2.4,No,0.0,27.0,325.8,372.8
+December,North Central,Polonnaruwa,Semi_Detached,2,111.0,3,0.0,2,1,1,0,0,0,2,0.0,11.8,6.2,2.3,No,0.0,25.2,168.6,180.5
+December,Sabaragamuwa,Ratnapura,Semi_Detached,4,142.2,4,0.0,6,1,3,2,2,2,1,0.0,12.0,4.9,1.8,No,0.0,28.4,356.7,301.4
+December,Sabaragamuwa,Ratnapura,Semi_Detached,3,152.0,4,0.0,5,2,1,1,0,1,1,0.0,4.3,3.7,1.1,No,0.0,30.1,305.6,294.6
+December,Sabaragamuwa,Ratnapura,Apartment,4,101.3,1,0.0,4,1,1,1,2,1,1,0.0,7.9,6.9,3.4,No,0.0,25.9,,253.8
+December,Sabaragamuwa,Ratnapura,Semi_Detached,5,118.4,2,1.0,5,1,3,1,0,2,1,4.7,8.1,5.7,1.7,No,0.0,25.7,355.3,370.8
+December,Eastern,Trincomalee,Semi_Detached,3,136.2,3,1.0,4,1,2,2,1,2,0,6.0,8.7,6.6,3.9,No,0.0,27.1,431.9,398.9
+December,Northern,Vavuniya,Apartment,7,125.9,3,0.0,7,2,3,1,1,3,3,,5.9,4.7,1.9,No,0.0,28.8,359.2,448.4
+December,Northern,Vavuniya,Semi_Detached,3,87.3,2,1.0,4,2,3,1,1,2,2,7.7,6.3,6.1,3.3,No,0.0,26.2,399.2,406.0
